@@ -1,0 +1,90 @@
+# ================================
+# Python & Django
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Django / Database
+db.sqlite3
+*.sqlite3
+*.db
+local_settings.py
+staticfiles/
+media/
+
+# ================================
+# Node.js & Frontend (Vite / React)
+# ================================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# ================================
+# Environment Variables & Secrets
+# ================================
+.env
+.env.*
+!.env.example
+*.env
+
+# ================================
+# Archives & Temporary Files
+# ================================
+*.zip
+*.tar.gz
+*.rar
+tmp/
+temp/
+
+# ================================
+# OS & Editor Specific Files
+# ================================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Preserve dataset YAML files
+!data2/*.yaml
