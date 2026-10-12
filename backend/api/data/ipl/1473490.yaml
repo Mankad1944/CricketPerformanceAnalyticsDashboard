@@ -1,0 +1,2211 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kolkata
+  competition: IPL
+  dates:
+  - '2025-05-04'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Kolkata Knight Riders
+    by:
+      runs: 1
+  overs: 20
+  player_of_match:
+  - AD Russell
+  players:
+    Kolkata Knight Riders:
+    - Harshit Rana
+    - Rahmanullah Gurbaz
+    - SP Narine
+    - AM Rahane
+    - A Raghuvanshi
+    - AD Russell
+    - RK Singh
+    - VR Iyer
+    - Ramandeep Singh
+    - MM Ali
+    - VG Arora
+    - CV Varun
+    Rajasthan Royals:
+    - Akash Madhwal
+    - YBK Jaiswal
+    - V Suryavanshi
+    - KS Rathore
+    - R Parag
+    - Dhruv Jurel
+    - PWH de Silva
+    - SO Hetmyer
+    - SB Dubey
+    - JC Archer
+    - M Theekshana
+    - Yudhvir Singh
+  registry:
+    people:
+      A Raghuvanshi: d7017798
+      AD Russell: bbd41817
+      AM Rahane: 29e95537
+      AT Holdstock: 6fa3258c
+      Akash Madhwal: 4bd09374
+      Amit Rana: f5db088b
+      Amit Sharma: 7ea3e0cc
+      Anish Sahasrabudhe: 2892df67
+      Ashok Sharma: 50c09020
+      CV Varun: 5b7ab5a9
+      Dhruv Jurel: bcf325d2
+      Harshit Rana: 77b1aa15
+      JC Archer: 5574750c
+      KS Rathore: e3851766
+      M Theekshana: f24c6701
+      MM Ali: bb351c23
+      PWH de Silva: a97c8ec2
+      R Pandit: 8a604384
+      R Parag: 04a418e8
+      RK Singh: 0a509d6b
+      Rahmanullah Gurbaz: 0bacade8
+      Ramandeep Singh: be24ead0
+      SB Dubey: 6b2ff18f
+      SO Hetmyer: 48a1d7b7
+      SP Narine: 9d430b40
+      V Suryavanshi: 470f446b
+      VG Arora: 7c3b3b78
+      VR Iyer: a24be938
+      YBK Jaiswal: 6c19c6e5
+      Yudhvir Singh: 4885bbe6
+  teams:
+  - Kolkata Knight Riders
+  - Rajasthan Royals
+  toss:
+    winner: Kolkata Knight Riders
+    decision: bat
+  umpires:
+  - Anish Sahasrabudhe
+  - R Pandit
+  venue: Eden Gardens, Kolkata
+innings:
+- 1st innings:
+    team: Kolkata Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: SP Narine
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 0.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 0.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 0.5:
+        non_striker: SP Narine
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.6:
+        non_striker: SP Narine
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 1.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 1.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 1.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Narine
+    - 1.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Yudhvir Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SP Narine
+    - 1.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Narine
+    - 1.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+        wicket:
+          player_out: SP Narine
+          kind: bowled
+    - 2.1:
+        non_striker: AM Rahane
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 2.2:
+        non_striker: AM Rahane
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 2.3:
+        non_striker: AM Rahane
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmanullah Gurbaz
+    - 2.4:
+        non_striker: AM Rahane
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 2.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 2.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AM Rahane
+    - 2.7:
+        non_striker: AM Rahane
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 3.1:
+        non_striker: AM Rahane
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.2:
+        non_striker: AM Rahane
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 3.3:
+        non_striker: AM Rahane
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.4:
+        non_striker: AM Rahane
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 3.5:
+        non_striker: AM Rahane
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 3.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Yudhvir Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rahane
+    - 4.1:
+        non_striker: AM Rahane
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 4.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 4.3:
+        non_striker: AM Rahane
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 4.4:
+        non_striker: AM Rahane
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 4.5:
+        non_striker: AM Rahane
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 4.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 5.1:
+        non_striker: AM Rahane
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 5.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 5.3:
+        non_striker: AM Rahane
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 5.4:
+        non_striker: AM Rahane
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 5.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rahane
+    - 5.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 6.1:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 6.2:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 6.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 6.4:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 6.5:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 6.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 7.1:
+        non_striker: AM Rahane
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 7.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 7.3:
+        non_striker: AM Rahane
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 7.4:
+        non_striker: AM Rahane
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Raghuvanshi
+    - 7.5:
+        non_striker: A Raghuvanshi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 7.6:
+        non_striker: A Raghuvanshi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 8.1:
+        non_striker: AM Rahane
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 8.2:
+        non_striker: A Raghuvanshi
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 8.3:
+        non_striker: AM Rahane
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 8.4:
+        non_striker: A Raghuvanshi
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 8.5:
+        non_striker: AM Rahane
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 8.6:
+        non_striker: A Raghuvanshi
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 9.1:
+        non_striker: A Raghuvanshi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 9.2:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 9.3:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 9.4:
+        non_striker: A Raghuvanshi
+        bowler: PWH de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AM Rahane
+    - 9.5:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 9.6:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Raghuvanshi
+    - 10.1:
+        non_striker: AM Rahane
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 10.2:
+        non_striker: A Raghuvanshi
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 10.3:
+        non_striker: AM Rahane
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Raghuvanshi
+    - 10.4:
+        non_striker: AM Rahane
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 10.5:
+        non_striker: AM Rahane
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 10.6:
+        non_striker: A Raghuvanshi
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rahane
+    - 11.1:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 11.2:
+        non_striker: A Raghuvanshi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 11.3:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 11.4:
+        non_striker: A Raghuvanshi
+        bowler: PWH de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Rahane
+    - 11.5:
+        non_striker: A Raghuvanshi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 11.6:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 11.7:
+        non_striker: AM Rahane
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 12.1:
+        non_striker: AM Rahane
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 12.2:
+        non_striker: A Raghuvanshi
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 12.3:
+        non_striker: AM Rahane
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 12.4:
+        non_striker: A Raghuvanshi
+        bowler: R Parag
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Rahane
+    - 12.5:
+        non_striker: A Raghuvanshi
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+        wicket:
+          player_out: AM Rahane
+          fielders:
+          - Dhruv Jurel
+          kind: caught
+    - 12.6:
+        non_striker: A Raghuvanshi
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 12.7:
+        non_striker: A Raghuvanshi
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.1:
+        non_striker: AD Russell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 13.2:
+        non_striker: AD Russell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 13.3:
+        non_striker: A Raghuvanshi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.4:
+        non_striker: A Raghuvanshi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.5:
+        non_striker: A Raghuvanshi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.6:
+        non_striker: A Raghuvanshi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.1:
+        non_striker: A Raghuvanshi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.2:
+        non_striker: AD Russell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Raghuvanshi
+    - 14.3:
+        non_striker: AD Russell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 14.4:
+        non_striker: AD Russell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 14.5:
+        non_striker: AD Russell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 14.6:
+        non_striker: A Raghuvanshi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.1:
+        non_striker: AD Russell
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 15.2:
+        non_striker: A Raghuvanshi
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.3:
+        non_striker: A Raghuvanshi
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 15.4:
+        non_striker: A Raghuvanshi
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 15.5:
+        non_striker: A Raghuvanshi
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 15.6:
+        non_striker: A Raghuvanshi
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 16.1:
+        non_striker: AD Russell
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 16.2:
+        non_striker: A Raghuvanshi
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 16.3:
+        non_striker: A Raghuvanshi
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 16.4:
+        non_striker: A Raghuvanshi
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 16.5:
+        non_striker: AD Russell
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 16.6:
+        non_striker: A Raghuvanshi
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 17.1:
+        non_striker: AD Russell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 17.2:
+        non_striker: AD Russell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 17.3:
+        non_striker: AD Russell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 17.4:
+        non_striker: A Raghuvanshi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 17.5:
+        non_striker: A Raghuvanshi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 17.6:
+        non_striker: A Raghuvanshi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 18.1:
+        non_striker: AD Russell
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+        wicket:
+          player_out: A Raghuvanshi
+          fielders:
+          - Ashok Sharma (sub)
+          kind: caught
+    - 18.2:
+        non_striker: AD Russell
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 18.3:
+        non_striker: RK Singh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 18.4:
+        non_striker: RK Singh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 18.5:
+        non_striker: RK Singh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 18.6:
+        non_striker: RK Singh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 19.1:
+        non_striker: RK Singh
+        bowler: Akash Madhwal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 19.2:
+        non_striker: RK Singh
+        bowler: Akash Madhwal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 19.3:
+        non_striker: RK Singh
+        bowler: Akash Madhwal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 19.4:
+        non_striker: RK Singh
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 19.5:
+        non_striker: AD Russell
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 19.6:
+        non_striker: AD Russell
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 19.7:
+        non_striker: AD Russell
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 19.8:
+        non_striker: AD Russell
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 19.9:
+        non_striker: AD Russell
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+- 2nd innings:
+    team: Rajasthan Royals
+    deliveries:
+    - 0.1:
+        non_striker: V Suryavanshi
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Harshit Rana
+            out: A Raghuvanshi
+            team: Kolkata Knight Riders
+            reason: impact_player
+        batsman: YBK Jaiswal
+    - 0.2:
+        non_striker: V Suryavanshi
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 0.3:
+        non_striker: YBK Jaiswal
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Suryavanshi
+    - 0.4:
+        non_striker: YBK Jaiswal
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+        wicket:
+          player_out: V Suryavanshi
+          fielders:
+          - AM Rahane
+          kind: caught
+    - 0.5:
+        non_striker: YBK Jaiswal
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Rathore
+    - 0.6:
+        non_striker: YBK Jaiswal
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Rathore
+    - 1.1:
+        non_striker: KS Rathore
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YBK Jaiswal
+    - 1.2:
+        non_striker: KS Rathore
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 1.3:
+        non_striker: YBK Jaiswal
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Rathore
+    - 1.4:
+        non_striker: YBK Jaiswal
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Rathore
+    - 1.5:
+        non_striker: YBK Jaiswal
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Rathore
+        wicket:
+          player_out: KS Rathore
+          fielders:
+          - AD Russell
+          kind: caught
+    - 1.6:
+        non_striker: YBK Jaiswal
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 2.1:
+        non_striker: YBK Jaiswal
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 2.2:
+        non_striker: YBK Jaiswal
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 2.3:
+        non_striker: YBK Jaiswal
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 2.4:
+        non_striker: YBK Jaiswal
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 2.5:
+        non_striker: R Parag
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 2.6:
+        non_striker: R Parag
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 3.1:
+        non_striker: YBK Jaiswal
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 3.2:
+        non_striker: YBK Jaiswal
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Parag
+    - 3.3:
+        non_striker: YBK Jaiswal
+        bowler: Harshit Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Parag
+    - 3.4:
+        non_striker: YBK Jaiswal
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 3.5:
+        non_striker: YBK Jaiswal
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 3.6:
+        non_striker: YBK Jaiswal
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Parag
+    - 3.7:
+        non_striker: YBK Jaiswal
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 4.1:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 4.2:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 4.3:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 4.4:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 4.5:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 4.6:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 5.1:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 5.2:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 5.3:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 5.4:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 5.5:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 5.6:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 6.1:
+        non_striker: R Parag
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 6.2:
+        non_striker: YBK Jaiswal
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Parag
+    - 6.3:
+        non_striker: YBK Jaiswal
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 6.4:
+        non_striker: R Parag
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 6.5:
+        non_striker: YBK Jaiswal
+        bowler: MM Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Parag
+    - 6.6:
+        non_striker: YBK Jaiswal
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 6.7:
+        non_striker: R Parag
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+        wicket:
+          player_out: YBK Jaiswal
+          fielders:
+          - RK Singh
+          kind: caught
+    - 7.1:
+        non_striker: Dhruv Jurel
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Parag
+    - 7.2:
+        non_striker: Dhruv Jurel
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 7.3:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+        wicket:
+          player_out: Dhruv Jurel
+          kind: bowled
+    - 7.4:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 7.5:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          kind: bowled
+    - 7.6:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.1:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 8.2:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.3:
+        non_striker: SO Hetmyer
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 8.4:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 8.5:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.6:
+        non_striker: SO Hetmyer
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 9.1:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 9.2:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 9.3:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 9.4:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 9.5:
+        non_striker: SO Hetmyer
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Parag
+    - 9.6:
+        non_striker: SO Hetmyer
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 10.1:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 10.2:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.3:
+        non_striker: SO Hetmyer
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 10.4:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.5:
+        non_striker: SO Hetmyer
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 10.6:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.1:
+        non_striker: SO Hetmyer
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 11.2:
+        non_striker: SO Hetmyer
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Parag
+    - 11.3:
+        non_striker: SO Hetmyer
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Parag
+    - 11.4:
+        non_striker: SO Hetmyer
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 11.5:
+        non_striker: R Parag
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 11.6:
+        non_striker: R Parag
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.1:
+        non_striker: R Parag
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.2:
+        non_striker: SO Hetmyer
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 12.3:
+        non_striker: SO Hetmyer
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 12.4:
+        non_striker: SO Hetmyer
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 12.5:
+        non_striker: SO Hetmyer
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 12.6:
+        non_striker: SO Hetmyer
+        bowler: MM Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Parag
+    - 12.7:
+        non_striker: SO Hetmyer
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 13.1:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.2:
+        non_striker: SO Hetmyer
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Parag
+    - 13.3:
+        non_striker: SO Hetmyer
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 13.4:
+        non_striker: SO Hetmyer
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 13.5:
+        non_striker: SO Hetmyer
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 13.6:
+        non_striker: R Parag
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 14.1:
+        non_striker: SO Hetmyer
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Parag
+    - 14.2:
+        non_striker: SO Hetmyer
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 14.3:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 14.4:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.5:
+        non_striker: SO Hetmyer
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 14.6:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.1:
+        non_striker: SO Hetmyer
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Parag
+    - 15.2:
+        non_striker: SO Hetmyer
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 15.3:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 15.4:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.5:
+        non_striker: SO Hetmyer
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 15.6:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - SP Narine
+          kind: caught
+    - 15.7:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: SB Dubey
+            out: Akash Madhwal
+            team: Rajasthan Royals
+            reason: impact_player
+        batsman: SB Dubey
+    - 16.1:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Dubey
+    - 16.2:
+        non_striker: SB Dubey
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 16.3:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 16.4:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Dubey
+    - 16.5:
+        non_striker: SB Dubey
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 16.6:
+        non_striker: R Parag
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Dubey
+    - 17.1:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Dubey
+    - 17.2:
+        non_striker: SB Dubey
+        bowler: Harshit Rana
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: R Parag
+    - 17.3:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 17.4:
+        non_striker: R Parag
+        bowler: Harshit Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SB Dubey
+    - 17.5:
+        non_striker: SB Dubey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+        wicket:
+          player_out: R Parag
+          fielders:
+          - VG Arora
+          kind: caught
+    - 17.6:
+        non_striker: SB Dubey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 17.7:
+        non_striker: SB Dubey
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 18.1:
+        non_striker: SB Dubey
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 18.2:
+        non_striker: JC Archer
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Dubey
+    - 18.3:
+        non_striker: JC Archer
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Dubey
+    - 18.4:
+        non_striker: SB Dubey
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Archer
+    - 18.5:
+        non_striker: SB Dubey
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Archer
+    - 18.6:
+        non_striker: SB Dubey
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 19.1:
+        non_striker: SB Dubey
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Archer
+    - 19.2:
+        non_striker: SB Dubey
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 19.3:
+        non_striker: JC Archer
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SB Dubey
+    - 19.4:
+        non_striker: JC Archer
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Dubey
+    - 19.5:
+        non_striker: JC Archer
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SB Dubey
+    - 19.6:
+        non_striker: JC Archer
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Dubey
+        wicket:
+          player_out: JC Archer
+          fielders:
+          - RK Singh
+          - VG Arora
+          kind: run out

@@ -1,0 +1,2162 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: IPL
+  dates:
+  - '2025-05-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gujarat Titans
+    by:
+      wickets: 3
+    method: D/L
+  overs: 20
+  player_of_match:
+  - Shubman Gill
+  players:
+    Mumbai Indians:
+    - RD Rickelton
+    - RG Sharma
+    - WG Jacks
+    - SA Yadav
+    - Tilak Varma
+    - HH Pandya
+    - Naman Dhir
+    - C Bosch
+    - DL Chahar
+    - KV Sharma
+    - TA Boult
+    - JJ Bumrah
+    - Ashwani Kumar
+    Gujarat Titans:
+    - B Sai Sudharsan
+    - Shubman Gill
+    - JC Buttler
+    - SE Rutherford
+    - M Shahrukh Khan
+    - R Tewatia
+    - Rashid Khan
+    - G Coetzee
+    - Arshad Khan
+    - R Sai Kishore
+    - Mohammed Siraj
+    - M Prasidh Krishna
+  registry:
+    people:
+      A Kripal Singh: 8f559207
+      Arshad Khan: '12314277'
+      Ashwani Kumar: d45c29b1
+      B Sai Sudharsan: d5130a30
+      C Bosch: 172dff15
+      DL Chahar: 23eeb873
+      G Coetzee: 3204c99f
+      HH Pandya: dbe50b21
+      JC Buttler: 99b75528
+      JJ Bumrah: 462411b3
+      KM Gandhi: a9421c64
+      KN Ananthapadmanabhan: 3144063a
+      KV Sharma: 119678fd
+      M Krishnadas: e298c588
+      M Prasidh Krishna: 85e0cf10
+      M Shahrukh Khan: 7dcb9bc9
+      MV Saidharshan Kumar: 54b6007b
+      Mohammed Siraj: 2f49c897
+      Naman Dhir: fffa744b
+      R Sai Kishore: c7a995d3
+      R Tewatia: 39a2dfa8
+      RD Rickelton: e66732f8
+      RG Sharma: 740742ef
+      Rashid Khan: 5f547c8b
+      SA Yadav: 271f83cd
+      SE Rutherford: d014d5ac
+      Shubman Gill: b4b99816
+      TA Boult: a818c1be
+      Tilak Varma: b0482a1d
+      WG Jacks: 9caf69a1
+  teams:
+  - Mumbai Indians
+  - Gujarat Titans
+  toss:
+    winner: Gujarat Titans
+    decision: field
+  umpires:
+  - KM Gandhi
+  - MV Saidharshan Kumar
+  venue: Wankhede Stadium, Mumbai
+innings:
+- 1st innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 0.2:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - B Sai Sudharsan
+          kind: caught
+    - 0.3:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 0.4:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 0.5:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 0.6:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 1.1:
+        non_striker: WG Jacks
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.2:
+        non_striker: WG Jacks
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 1.3:
+        non_striker: RG Sharma
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 1.4:
+        non_striker: WG Jacks
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.5:
+        non_striker: WG Jacks
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 1.6:
+        non_striker: WG Jacks
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.1:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 2.2:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 2.3:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 2.4:
+        non_striker: RG Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 2.5:
+        non_striker: WG Jacks
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 2.6:
+        non_striker: WG Jacks
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 3.1:
+        non_striker: RG Sharma
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 3.2:
+        non_striker: RG Sharma
+        bowler: Arshad Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WG Jacks
+    - 3.3:
+        non_striker: WG Jacks
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          fielders:
+          - M Prasidh Krishna
+          kind: caught
+    - 3.4:
+        non_striker: WG Jacks
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 3.5:
+        non_striker: WG Jacks
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 3.6:
+        non_striker: WG Jacks
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 4.1:
+        non_striker: WG Jacks
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 4.2:
+        non_striker: WG Jacks
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 4.3:
+        non_striker: WG Jacks
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 4.4:
+        non_striker: SA Yadav
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 4.5:
+        non_striker: WG Jacks
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 4.6:
+        non_striker: WG Jacks
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 5.1:
+        non_striker: SA Yadav
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 5.2:
+        non_striker: SA Yadav
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 5.3:
+        non_striker: SA Yadav
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 5.4:
+        non_striker: SA Yadav
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 5.5:
+        non_striker: SA Yadav
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 5.6:
+        non_striker: WG Jacks
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 6.1:
+        non_striker: SA Yadav
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 6.2:
+        non_striker: SA Yadav
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 6.3:
+        non_striker: WG Jacks
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 6.4:
+        non_striker: SA Yadav
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 6.5:
+        non_striker: WG Jacks
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 6.6:
+        non_striker: SA Yadav
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 7.1:
+        non_striker: WG Jacks
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.2:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 7.3:
+        non_striker: WG Jacks
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 7.4:
+        non_striker: WG Jacks
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.5:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 7.6:
+        non_striker: WG Jacks
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 8.1:
+        non_striker: SA Yadav
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 8.2:
+        non_striker: WG Jacks
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 8.3:
+        non_striker: WG Jacks
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.4:
+        non_striker: SA Yadav
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 8.5:
+        non_striker: WG Jacks
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.6:
+        non_striker: WG Jacks
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.1:
+        non_striker: WG Jacks
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.2:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 9.3:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 9.4:
+        non_striker: SA Yadav
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 9.5:
+        non_striker: WG Jacks
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.6:
+        non_striker: WG Jacks
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.1:
+        non_striker: WG Jacks
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.2:
+        non_striker: SA Yadav
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 10.3:
+        non_striker: SA Yadav
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 10.4:
+        non_striker: WG Jacks
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - M Shahrukh Khan
+          kind: caught
+    - 10.5:
+        non_striker: WG Jacks
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 10.6:
+        non_striker: Tilak Varma
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 11.1:
+        non_striker: Tilak Varma
+        bowler: Rashid Khan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: WG Jacks
+    - 11.2:
+        non_striker: Tilak Varma
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 11.3:
+        non_striker: Tilak Varma
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 11.4:
+        non_striker: Tilak Varma
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          fielders:
+          - B Sai Sudharsan
+          kind: caught
+    - 11.5:
+        non_striker: Tilak Varma
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 11.6:
+        non_striker: HH Pandya
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 12.1:
+        non_striker: HH Pandya
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 12.2:
+        non_striker: Tilak Varma
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 12.3:
+        non_striker: Tilak Varma
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - Shubman Gill
+          kind: caught
+    - 12.4:
+        non_striker: Tilak Varma
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 12.5:
+        non_striker: Naman Dhir
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 12.6:
+        non_striker: Naman Dhir
+        bowler: R Sai Kishore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tilak Varma
+    - 12.7:
+        non_striker: Naman Dhir
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 13.1:
+        non_striker: Naman Dhir
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 13.2:
+        non_striker: Tilak Varma
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 13.3:
+        non_striker: Tilak Varma
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 13.4:
+        non_striker: Tilak Varma
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 13.5:
+        non_striker: Naman Dhir
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          fielders:
+          - Shubman Gill
+          kind: caught
+    - 13.6:
+        non_striker: Naman Dhir
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 14.1:
+        non_striker: Naman Dhir
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 14.2:
+        non_striker: Naman Dhir
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 14.3:
+        non_striker: Naman Dhir
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 14.4:
+        non_striker: Naman Dhir
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 14.5:
+        non_striker: C Bosch
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 14.6:
+        non_striker: C Bosch
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Naman Dhir
+    - 15.1:
+        non_striker: C Bosch
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 15.2:
+        non_striker: C Bosch
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 15.3:
+        non_striker: Naman Dhir
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 15.4:
+        non_striker: Naman Dhir
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 15.5:
+        non_striker: Naman Dhir
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bosch
+    - 15.6:
+        non_striker: Naman Dhir
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 16.1:
+        non_striker: C Bosch
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 16.2:
+        non_striker: C Bosch
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+        wicket:
+          player_out: Naman Dhir
+          fielders:
+          - Shubman Gill
+          kind: caught
+    - 16.3:
+        non_striker: C Bosch
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Chahar
+    - 16.4:
+        non_striker: C Bosch
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Chahar
+    - 16.5:
+        non_striker: DL Chahar
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 16.6:
+        non_striker: DL Chahar
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 17.1:
+        non_striker: DL Chahar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bosch
+    - 17.2:
+        non_striker: DL Chahar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 17.3:
+        non_striker: DL Chahar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 17.4:
+        non_striker: C Bosch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Chahar
+    - 17.5:
+        non_striker: C Bosch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Chahar
+    - 17.6:
+        non_striker: DL Chahar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 18.1:
+        non_striker: C Bosch
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Chahar
+    - 18.2:
+        non_striker: DL Chahar
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bosch
+    - 18.3:
+        non_striker: DL Chahar
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 18.4:
+        non_striker: C Bosch
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Chahar
+    - 18.5:
+        non_striker: C Bosch
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Chahar
+    - 18.6:
+        non_striker: DL Chahar
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 19.1:
+        non_striker: DL Chahar
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Bosch
+    - 19.2:
+        non_striker: DL Chahar
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Bosch
+    - 19.3:
+        non_striker: DL Chahar
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 19.4:
+        non_striker: DL Chahar
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+        wicket:
+          player_out: C Bosch
+          fielders:
+          - JC Buttler
+          - Rashid Khan
+          kind: run out
+    - 19.5:
+        non_striker: DL Chahar
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: KV Sharma
+            out: RG Sharma
+            team: Mumbai Indians
+            reason: impact_player
+        batsman: KV Sharma
+    - 19.6:
+        non_striker: KV Sharma
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Chahar
+- 2nd innings:
+    team: Gujarat Titans
+    deliveries:
+    - 0.1:
+        non_striker: Shubman Gill
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 0.2:
+        non_striker: Shubman Gill
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 0.3:
+        non_striker: Shubman Gill
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 0.4:
+        non_striker: B Sai Sudharsan
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 0.5:
+        non_striker: B Sai Sudharsan
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 0.6:
+        non_striker: B Sai Sudharsan
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 0.7:
+        non_striker: B Sai Sudharsan
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.1:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 1.2:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+        wicket:
+          player_out: B Sai Sudharsan
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 1.3:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.6:
+        non_striker: JC Buttler
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.1:
+        non_striker: Shubman Gill
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JC Buttler
+    - 2.2:
+        non_striker: Shubman Gill
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.3:
+        non_striker: JC Buttler
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.4:
+        non_striker: JC Buttler
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.5:
+        non_striker: JC Buttler
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 2.6:
+        non_striker: JC Buttler
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.7:
+        non_striker: JC Buttler
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 3.1:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.2:
+        non_striker: JC Buttler
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 3.3:
+        non_striker: JC Buttler
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 3.4:
+        non_striker: JC Buttler
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 3.5:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 3.6:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.1:
+        non_striker: JC Buttler
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.2:
+        non_striker: JC Buttler
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.3:
+        non_striker: JC Buttler
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 4.4:
+        non_striker: JC Buttler
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.5:
+        non_striker: JC Buttler
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.6:
+        non_striker: JC Buttler
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 5.1:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 5.2:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 5.3:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 5.4:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 5.5:
+        non_striker: JC Buttler
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 5.6:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 6.1:
+        non_striker: JC Buttler
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 6.2:
+        non_striker: Shubman Gill
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 6.3:
+        non_striker: Shubman Gill
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 6.4:
+        non_striker: Shubman Gill
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 6.5:
+        non_striker: JC Buttler
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 6.6:
+        non_striker: Shubman Gill
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 7.1:
+        non_striker: JC Buttler
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.2:
+        non_striker: Shubman Gill
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 7.3:
+        non_striker: Shubman Gill
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 7.4:
+        non_striker: JC Buttler
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 7.5:
+        non_striker: JC Buttler
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Shubman Gill
+    - 7.6:
+        non_striker: JC Buttler
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 7.7:
+        non_striker: JC Buttler
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Shubman Gill
+    - 7.8:
+        non_striker: JC Buttler
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 7.9:
+        non_striker: JC Buttler
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.10:
+        non_striker: Shubman Gill
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JC Buttler
+    - 7.11:
+        non_striker: Shubman Gill
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 8.1:
+        non_striker: JC Buttler
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 8.2:
+        non_striker: Shubman Gill
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 8.3:
+        non_striker: Shubman Gill
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 8.4:
+        non_striker: JC Buttler
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 8.5:
+        non_striker: Shubman Gill
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 8.6:
+        non_striker: JC Buttler
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.1:
+        non_striker: JC Buttler
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: Ashwani Kumar
+            out: C Bosch
+            team: Mumbai Indians
+            reason: concussion_substitute
+        batsman: Shubman Gill
+    - 9.2:
+        non_striker: Shubman Gill
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 9.3:
+        non_striker: JC Buttler
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.4:
+        non_striker: Shubman Gill
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 9.5:
+        non_striker: Shubman Gill
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 9.6:
+        non_striker: JC Buttler
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 10.1:
+        non_striker: JC Buttler
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 10.2:
+        non_striker: JC Buttler
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 10.3:
+        non_striker: JC Buttler
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 10.4:
+        non_striker: Shubman Gill
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 10.5:
+        non_striker: Shubman Gill
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 10.6:
+        non_striker: JC Buttler
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 11.1:
+        non_striker: Shubman Gill
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 11.2:
+        non_striker: JC Buttler
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 11.3:
+        non_striker: Shubman Gill
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 11.4:
+        non_striker: Shubman Gill
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: SE Rutherford
+            out: M Prasidh Krishna
+            team: Gujarat Titans
+            reason: impact_player
+        batsman: SE Rutherford
+    - 11.5:
+        non_striker: Shubman Gill
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 11.6:
+        non_striker: SE Rutherford
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 12.1:
+        non_striker: Shubman Gill
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 12.2:
+        non_striker: Shubman Gill
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 12.3:
+        non_striker: Shubman Gill
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 12.4:
+        non_striker: Shubman Gill
+        bowler: WG Jacks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 12.5:
+        non_striker: Shubman Gill
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 12.6:
+        non_striker: Shubman Gill
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 12.7:
+        non_striker: Shubman Gill
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 13.1:
+        non_striker: SE Rutherford
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 13.2:
+        non_striker: Shubman Gill
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 13.3:
+        non_striker: SE Rutherford
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 13.4:
+        non_striker: Shubman Gill
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 13.5:
+        non_striker: Shubman Gill
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 13.6:
+        non_striker: Shubman Gill
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 14.1:
+        non_striker: SE Rutherford
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 14.2:
+        non_striker: SE Rutherford
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 14.3:
+        non_striker: SE Rutherford
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 14.4:
+        non_striker: Shubman Gill
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.5:
+        non_striker: SE Rutherford
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          kind: bowled
+    - 14.6:
+        non_striker: SE Rutherford
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shahrukh Khan
+    - 15.1:
+        non_striker: M Shahrukh Khan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 15.2:
+        non_striker: SE Rutherford
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shahrukh Khan
+    - 15.3:
+        non_striker: M Shahrukh Khan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          kind: lbw
+    - 15.4:
+        non_striker: M Shahrukh Khan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 15.5:
+        non_striker: R Tewatia
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shahrukh Khan
+    - 15.6:
+        non_striker: M Shahrukh Khan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 16.1:
+        non_striker: M Shahrukh Khan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 16.2:
+        non_striker: R Tewatia
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shahrukh Khan
+    - 16.3:
+        non_striker: R Tewatia
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shahrukh Khan
+    - 16.4:
+        non_striker: R Tewatia
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shahrukh Khan
+        wicket:
+          player_out: M Shahrukh Khan
+          kind: bowled
+    - 16.5:
+        non_striker: R Tewatia
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Khan
+    - 16.6:
+        non_striker: R Tewatia
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 17.1:
+        non_striker: Rashid Khan
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 17.2:
+        non_striker: R Tewatia
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+        wicket:
+          player_out: Rashid Khan
+          kind: lbw
+    - 17.3:
+        non_striker: R Tewatia
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 17.4:
+        non_striker: R Tewatia
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Coetzee
+    - 17.5:
+        non_striker: G Coetzee
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 17.6:
+        non_striker: R Tewatia
+        bowler: Ashwani Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Coetzee
+    - 18.1:
+        non_striker: G Coetzee
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Tewatia
+    - 18.2:
+        non_striker: G Coetzee
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 18.3:
+        non_striker: R Tewatia
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Coetzee
+    - 18.4:
+        non_striker: R Tewatia
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: G Coetzee
+    - 18.5:
+        non_striker: G Coetzee
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 18.6:
+        non_striker: R Tewatia
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+        wicket:
+          player_out: G Coetzee
+          fielders:
+          - Naman Dhir
+          kind: caught
+    - 18.7:
+        non_striker: R Tewatia
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arshad Khan

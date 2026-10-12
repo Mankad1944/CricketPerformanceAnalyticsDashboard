@@ -1,0 +1,2125 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: IPL
+  dates:
+  - '2025-04-17'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Mumbai Indians
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - WG Jacks
+  players:
+    Sunrisers Hyderabad:
+    - RD Chahar
+    - Abhishek Sharma
+    - TM Head
+    - Ishan Kishan
+    - Nithish Kumar Reddy
+    - H Klaasen
+    - Aniket Verma
+    - PJ Cummins
+    - HV Patel
+    - Mohammed Shami
+    - Zeeshan Ansari
+    - E Malinga
+    Mumbai Indians:
+    - KV Sharma
+    - RD Rickelton
+    - RG Sharma
+    - WG Jacks
+    - SA Yadav
+    - Tilak Varma
+    - HH Pandya
+    - Naman Dhir
+    - MJ Santner
+    - DL Chahar
+    - TA Boult
+    - JJ Bumrah
+  registry:
+    people:
+      Abhishek Sharma: f29185a1
+      Aniket Verma: a3b0600d
+      CB Gaffaney: d5ac41d8
+      DL Chahar: 23eeb873
+      E Malinga: 5750bcb4
+      H Klaasen: 235c2bb6
+      HH Pandya: dbe50b21
+      HV Patel: f986ca1a
+      Ishan Kishan: 752f7486
+      J Madanagopal: 8275b04a
+      JJ Bumrah: 462411b3
+      KV Sharma: 119678fd
+      MJ Santner: e4a0deae
+      Mohammed Shami: 8cf9814c
+      Naman Dhir: fffa744b
+      Nithish Kumar Reddy: aad0c365
+      P Joshi: ffc0e370
+      PJ Cummins: ded9240e
+      Prakash Bhatt: f848ab0b
+      RA Bawa: ba6b2f91
+      RD Chahar: 2ed569a0
+      RD Rickelton: e66732f8
+      RG Sharma: 740742ef
+      SA Yadav: 271f83cd
+      TA Boult: a818c1be
+      TM Head: 12b610c2
+      Tilak Varma: b0482a1d
+      Vinod Seshan: a3357a27
+      WG Jacks: 9caf69a1
+      Zeeshan Ansari: '36619795'
+  teams:
+  - Sunrisers Hyderabad
+  - Mumbai Indians
+  toss:
+    winner: Mumbai Indians
+    decision: field
+  umpires:
+  - J Madanagopal
+  - Vinod Seshan
+  venue: Wankhede Stadium, Mumbai
+innings:
+- 1st innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhishek Sharma
+    - 0.2:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 0.3:
+        non_striker: Abhishek Sharma
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.4:
+        non_striker: Abhishek Sharma
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.5:
+        non_striker: Abhishek Sharma
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 0.6:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 1.1:
+        non_striker: TM Head
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.2:
+        non_striker: TM Head
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 1.3:
+        non_striker: TM Head
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 1.4:
+        non_striker: Abhishek Sharma
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 1.5:
+        non_striker: Abhishek Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.6:
+        non_striker: Abhishek Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.7:
+        non_striker: Abhishek Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 2.1:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 2.2:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 2.3:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 2.4:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 2.5:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 2.6:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 2.7:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 2.8:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 3.1:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 3.2:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 3.3:
+        non_striker: Abhishek Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 3.4:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 3.5:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 3.6:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 4.1:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 4.2:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 4.3:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 4.4:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 4.5:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 4.6:
+        non_striker: TM Head
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhishek Sharma
+    - 5.1:
+        non_striker: Abhishek Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 5.2:
+        non_striker: Abhishek Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 5.3:
+        non_striker: TM Head
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 5.4:
+        non_striker: Abhishek Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 5.5:
+        non_striker: Abhishek Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 5.6:
+        non_striker: Abhishek Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 6.1:
+        non_striker: Abhishek Sharma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 6.2:
+        non_striker: TM Head
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 6.3:
+        non_striker: Abhishek Sharma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 6.4:
+        non_striker: Abhishek Sharma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 6.5:
+        non_striker: Abhishek Sharma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 6.6:
+        non_striker: TM Head
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 7.1:
+        non_striker: Abhishek Sharma
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 7.2:
+        non_striker: Abhishek Sharma
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 7.3:
+        non_striker: TM Head
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 7.4:
+        non_striker: TM Head
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - RA Bawa (sub)
+          kind: caught
+    - 7.5:
+        non_striker: TM Head
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 7.6:
+        non_striker: Ishan Kishan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 7.7:
+        non_striker: Ishan Kishan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 8.1:
+        non_striker: Ishan Kishan
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 8.2:
+        non_striker: TM Head
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.3:
+        non_striker: Ishan Kishan
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 8.4:
+        non_striker: TM Head
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - RD Rickelton
+          kind: stumped
+    - 8.5:
+        non_striker: TM Head
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 8.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 9.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 9.2:
+        non_striker: TM Head
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 9.3:
+        non_striker: TM Head
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 9.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: TM Head
+    - 9.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 9.6:
+        non_striker: TM Head
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 9.7:
+        non_striker: TM Head
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 10.1:
+        non_striker: TM Head
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 10.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 10.3:
+        non_striker: TM Head
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 10.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 10.5:
+        non_striker: TM Head
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 10.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 11.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: WG Jacks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 11.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 11.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: WG Jacks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 11.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.7:
+        non_striker: Nithish Kumar Reddy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.8:
+        non_striker: Nithish Kumar Reddy
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 12.1:
+        non_striker: H Klaasen
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 12.2:
+        non_striker: H Klaasen
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 12.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.4:
+        non_striker: H Klaasen
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 12.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 12.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 13.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 13.2:
+        non_striker: H Klaasen
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 13.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 13.4:
+        non_striker: H Klaasen
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 13.5:
+        non_striker: H Klaasen
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 13.6:
+        non_striker: H Klaasen
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 14.1:
+        non_striker: H Klaasen
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 14.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 14.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 14.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.5:
+        non_striker: H Klaasen
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 14.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.7:
+        non_striker: H Klaasen
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 15.1:
+        non_striker: H Klaasen
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 15.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 15.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 15.4:
+        non_striker: H Klaasen
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 15.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 15.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 15.7:
+        non_striker: Nithish Kumar Reddy
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 16.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 16.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.4:
+        non_striker: H Klaasen
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+        wicket:
+          player_out: Nithish Kumar Reddy
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 16.5:
+        non_striker: H Klaasen
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 16.6:
+        non_striker: Aniket Verma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 17.1:
+        non_striker: Aniket Verma
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 17.2:
+        non_striker: Aniket Verma
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 17.3:
+        non_striker: Aniket Verma
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 17.4:
+        non_striker: Aniket Verma
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 17.5:
+        non_striker: Aniket Verma
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 17.6:
+        non_striker: Aniket Verma
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 18.1:
+        non_striker: Aniket Verma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          kind: bowled
+    - 18.2:
+        non_striker: Aniket Verma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 18.3:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 18.4:
+        non_striker: Aniket Verma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 18.5:
+        non_striker: PJ Cummins
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 18.6:
+        non_striker: Aniket Verma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 19.1:
+        non_striker: PJ Cummins
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 19.2:
+        non_striker: PJ Cummins
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aniket Verma
+    - 19.3:
+        non_striker: PJ Cummins
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aniket Verma
+    - 19.4:
+        non_striker: PJ Cummins
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aniket Verma
+    - 19.5:
+        non_striker: PJ Cummins
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Aniket Verma
+    - 19.6:
+        non_striker: Aniket Verma
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Cummins
+- 2nd innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: RG Sharma
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: RG Sharma
+            out: KV Sharma
+            team: Mumbai Indians
+            reason: impact_player
+        batsman: RD Rickelton
+    - 0.2:
+        non_striker: RG Sharma
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 0.3:
+        non_striker: RD Rickelton
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 0.4:
+        non_striker: RD Rickelton
+        bowler: Mohammed Shami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RG Sharma
+    - 0.5:
+        non_striker: RG Sharma
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 0.6:
+        non_striker: RG Sharma
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.1:
+        non_striker: RD Rickelton
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.2:
+        non_striker: RD Rickelton
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.3:
+        non_striker: RD Rickelton
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 1.4:
+        non_striker: RG Sharma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.5:
+        non_striker: RG Sharma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 1.6:
+        non_striker: RD Rickelton
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 2.1:
+        non_striker: RD Rickelton
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 2.2:
+        non_striker: RD Rickelton
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.3:
+        non_striker: RD Rickelton
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 2.4:
+        non_striker: RD Rickelton
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 2.5:
+        non_striker: RD Rickelton
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 2.6:
+        non_striker: RD Rickelton
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 3.1:
+        non_striker: RD Rickelton
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 3.2:
+        non_striker: RD Rickelton
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 3.3:
+        non_striker: RG Sharma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 3.4:
+        non_striker: RD Rickelton
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 3.5:
+        non_striker: RD Rickelton
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          fielders:
+          - TM Head
+          kind: caught
+    - 3.6:
+        non_striker: RD Rickelton
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 4.1:
+        non_striker: WG Jacks
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 4.2:
+        non_striker: WG Jacks
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 4.3:
+        non_striker: WG Jacks
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 4.4:
+        non_striker: RD Rickelton
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 4.5:
+        non_striker: RD Rickelton
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 4.6:
+        non_striker: RD Rickelton
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 5.1:
+        non_striker: RD Rickelton
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 5.2:
+        non_striker: WG Jacks
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 5.3:
+        non_striker: WG Jacks
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 5.4:
+        non_striker: WG Jacks
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 5.5:
+        non_striker: WG Jacks
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 5.6:
+        non_striker: RD Rickelton
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 6.1:
+        non_striker: RD Rickelton
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 6.2:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 6.3:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 6.4:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 6.5:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RD Rickelton
+    - 6.6:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Rickelton
+    - 6.7:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.8:
+        non_striker: RD Rickelton
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 7.1:
+        non_striker: WG Jacks
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: RD Chahar
+            out: Mohammed Shami
+            team: Sunrisers Hyderabad
+            reason: impact_player
+        batsman: RD Rickelton
+    - 7.2:
+        non_striker: RD Rickelton
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 7.3:
+        non_striker: WG Jacks
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 7.4:
+        non_striker: WG Jacks
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 7.5:
+        non_striker: WG Jacks
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - TM Head
+          kind: caught
+    - 7.6:
+        non_striker: WG Jacks
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.1:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.2:
+        non_striker: SA Yadav
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 8.3:
+        non_striker: SA Yadav
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 8.4:
+        non_striker: SA Yadav
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 8.5:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.6:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 9.1:
+        non_striker: SA Yadav
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 9.2:
+        non_striker: SA Yadav
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 9.3:
+        non_striker: SA Yadav
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 9.4:
+        non_striker: SA Yadav
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 9.5:
+        non_striker: WG Jacks
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.6:
+        non_striker: SA Yadav
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 10.1:
+        non_striker: SA Yadav
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 10.2:
+        non_striker: SA Yadav
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 10.3:
+        non_striker: SA Yadav
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 10.4:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 10.5:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.6:
+        non_striker: WG Jacks
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 11.1:
+        non_striker: SA Yadav
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 11.2:
+        non_striker: WG Jacks
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 11.3:
+        non_striker: WG Jacks
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 11.4:
+        non_striker: WG Jacks
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.5:
+        non_striker: SA Yadav
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 11.6:
+        non_striker: SA Yadav
+        bowler: E Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WG Jacks
+    - 11.7:
+        non_striker: SA Yadav
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 12.1:
+        non_striker: WG Jacks
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 12.2:
+        non_striker: WG Jacks
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 12.3:
+        non_striker: WG Jacks
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 12.4:
+        non_striker: WG Jacks
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - Zeeshan Ansari
+          kind: caught
+    - 12.5:
+        non_striker: WG Jacks
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 12.6:
+        non_striker: WG Jacks
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 13.1:
+        non_striker: WG Jacks
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 13.2:
+        non_striker: Tilak Varma
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 13.3:
+        non_striker: WG Jacks
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 13.4:
+        non_striker: WG Jacks
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 13.5:
+        non_striker: Tilak Varma
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 13.6:
+        non_striker: WG Jacks
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 14.1:
+        non_striker: WG Jacks
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 14.2:
+        non_striker: WG Jacks
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 14.3:
+        non_striker: Tilak Varma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          fielders:
+          - Zeeshan Ansari
+          kind: caught
+    - 14.4:
+        non_striker: Tilak Varma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.5:
+        non_striker: Tilak Varma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 14.6:
+        non_striker: Tilak Varma
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HH Pandya
+    - 14.7:
+        non_striker: Tilak Varma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 15.1:
+        non_striker: HH Pandya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 15.2:
+        non_striker: Tilak Varma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.3:
+        non_striker: HH Pandya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 15.4:
+        non_striker: Tilak Varma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.5:
+        non_striker: HH Pandya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 15.6:
+        non_striker: HH Pandya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 16.1:
+        non_striker: HH Pandya
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 16.2:
+        non_striker: HH Pandya
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 16.3:
+        non_striker: Tilak Varma
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 16.4:
+        non_striker: Tilak Varma
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 16.5:
+        non_striker: Tilak Varma
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 16.6:
+        non_striker: HH Pandya
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 17.1:
+        non_striker: HH Pandya
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 17.2:
+        non_striker: Tilak Varma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 17.3:
+        non_striker: Tilak Varma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 17.4:
+        non_striker: Tilak Varma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 17.5:
+        non_striker: Tilak Varma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+        wicket:
+          player_out: Naman Dhir
+          kind: lbw
+    - 17.6:
+        non_striker: Tilak Varma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 18.1:
+        non_striker: MJ Santner
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma

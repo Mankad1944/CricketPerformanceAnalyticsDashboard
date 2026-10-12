@@ -1,0 +1,1995 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Jaipur
+  competition: IPL
+  dates:
+  - '2025-05-01'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Mumbai Indians
+    by:
+      runs: 100
+  overs: 20
+  player_of_match:
+  - RD Rickelton
+  players:
+    Mumbai Indians:
+    - KV Sharma
+    - RD Rickelton
+    - RG Sharma
+    - SA Yadav
+    - HH Pandya
+    - WG Jacks
+    - Tilak Varma
+    - Naman Dhir
+    - C Bosch
+    - DL Chahar
+    - TA Boult
+    - JJ Bumrah
+    Rajasthan Royals:
+    - Fazalhaq Farooqi
+    - YBK Jaiswal
+    - V Suryavanshi
+    - N Rana
+    - R Parag
+    - Dhruv Jurel
+    - SO Hetmyer
+    - SB Dubey
+    - JC Archer
+    - M Theekshana
+    - K Kartikeya
+    - Akash Madhwal
+  registry:
+    people:
+      A Bengeri: c109497d
+      Akash Madhwal: 4bd09374
+      C Bosch: 172dff15
+      CB Gaffaney: d5ac41d8
+      DL Chahar: 23eeb873
+      DS Manohar: b35f3ac8
+      Dhruv Jurel: bcf325d2
+      Fazalhaq Farooqi: e9c7f0d0
+      HH Pandya: dbe50b21
+      JC Archer: 5574750c
+      JJ Bumrah: 462411b3
+      K Kartikeya: f6d8a7ab
+      KV Sharma: 119678fd
+      M Theekshana: f24c6701
+      N Rana: fb2d1dda
+      Naman Dhir: fffa744b
+      P Joshi: ffc0e370
+      R Parag: 04a418e8
+      RD Rickelton: e66732f8
+      RG Sharma: 740742ef
+      SA Yadav: 271f83cd
+      SB Dubey: 6b2ff18f
+      SO Hetmyer: 48a1d7b7
+      TA Boult: a818c1be
+      Tilak Varma: b0482a1d
+      V Suryavanshi: 470f446b
+      Vinod Seshan: a3357a27
+      WG Jacks: 9caf69a1
+      YBK Jaiswal: 6c19c6e5
+  teams:
+  - Mumbai Indians
+  - Rajasthan Royals
+  toss:
+    winner: Rajasthan Royals
+    decision: field
+  umpires:
+  - P Joshi
+  - Vinod Seshan
+  venue: Sawai Mansingh Stadium, Jaipur
+innings:
+- 1st innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: RG Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.2:
+        non_striker: RG Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 0.3:
+        non_striker: RD Rickelton
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 0.4:
+        non_striker: RD Rickelton
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 0.5:
+        non_striker: RD Rickelton
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 0.6:
+        non_striker: RG Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.1:
+        non_striker: RD Rickelton
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Sharma
+    - 1.2:
+        non_striker: RD Rickelton
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.3:
+        non_striker: RD Rickelton
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 1.4:
+        non_striker: RD Rickelton
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.5:
+        non_striker: RD Rickelton
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 1.6:
+        non_striker: RD Rickelton
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.7:
+        non_striker: RD Rickelton
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.1:
+        non_striker: RG Sharma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 2.2:
+        non_striker: RD Rickelton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 2.3:
+        non_striker: RG Sharma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.4:
+        non_striker: RG Sharma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.5:
+        non_striker: RG Sharma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 2.6:
+        non_striker: RD Rickelton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 3.1:
+        non_striker: RG Sharma
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 3.2:
+        non_striker: RG Sharma
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 3.3:
+        non_striker: RG Sharma
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 3.4:
+        non_striker: RG Sharma
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 3.5:
+        non_striker: RD Rickelton
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 3.6:
+        non_striker: RD Rickelton
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 4.1:
+        non_striker: RG Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 4.2:
+        non_striker: RD Rickelton
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 4.3:
+        non_striker: RD Rickelton
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 4.4:
+        non_striker: RG Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 4.5:
+        non_striker: RG Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 4.6:
+        non_striker: RG Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 5.1:
+        non_striker: RD Rickelton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 5.2:
+        non_striker: RD Rickelton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 5.3:
+        non_striker: RD Rickelton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 5.4:
+        non_striker: RG Sharma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 5.5:
+        non_striker: RG Sharma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 5.6:
+        non_striker: RG Sharma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 6.1:
+        non_striker: RD Rickelton
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 6.2:
+        non_striker: RD Rickelton
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 6.3:
+        non_striker: RG Sharma
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 6.4:
+        non_striker: RG Sharma
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 6.5:
+        non_striker: RG Sharma
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 6.6:
+        non_striker: RG Sharma
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.1:
+        non_striker: RG Sharma
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.2:
+        non_striker: RD Rickelton
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 7.3:
+        non_striker: RG Sharma
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 7.4:
+        non_striker: RG Sharma
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 7.5:
+        non_striker: RG Sharma
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 7.6:
+        non_striker: RG Sharma
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 8.1:
+        non_striker: RD Rickelton
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 8.2:
+        non_striker: RD Rickelton
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 8.3:
+        non_striker: RD Rickelton
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 8.4:
+        non_striker: RG Sharma
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 8.5:
+        non_striker: RG Sharma
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 8.6:
+        non_striker: RG Sharma
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 9.1:
+        non_striker: RG Sharma
+        bowler: Akash Madhwal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Rickelton
+    - 9.2:
+        non_striker: RG Sharma
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 9.3:
+        non_striker: RG Sharma
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 9.4:
+        non_striker: RG Sharma
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 9.5:
+        non_striker: RD Rickelton
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 9.6:
+        non_striker: RD Rickelton
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 9.7:
+        non_striker: RD Rickelton
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 10.1:
+        non_striker: RD Rickelton
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 10.2:
+        non_striker: RG Sharma
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 10.3:
+        non_striker: RD Rickelton
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 10.4:
+        non_striker: RD Rickelton
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 10.5:
+        non_striker: RG Sharma
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 10.6:
+        non_striker: RG Sharma
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 11.1:
+        non_striker: RD Rickelton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 11.2:
+        non_striker: RD Rickelton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 11.3:
+        non_striker: RG Sharma
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Rickelton
+    - 11.4:
+        non_striker: RG Sharma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 11.5:
+        non_striker: RD Rickelton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 11.6:
+        non_striker: RG Sharma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          kind: bowled
+    - 11.7:
+        non_striker: RG Sharma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 12.1:
+        non_striker: SA Yadav
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 12.2:
+        non_striker: RG Sharma
+        bowler: R Parag
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Yadav
+    - 12.3:
+        non_striker: RG Sharma
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.4:
+        non_striker: SA Yadav
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 12.5:
+        non_striker: SA Yadav
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          fielders:
+          - YBK Jaiswal
+          kind: caught
+    - 12.6:
+        non_striker: SA Yadav
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 12.7:
+        non_striker: SA Yadav
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 13.1:
+        non_striker: HH Pandya
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 13.2:
+        non_striker: HH Pandya
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 13.3:
+        non_striker: SA Yadav
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 13.4:
+        non_striker: SA Yadav
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 13.5:
+        non_striker: HH Pandya
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 13.6:
+        non_striker: HH Pandya
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 14.1:
+        non_striker: SA Yadav
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.2:
+        non_striker: HH Pandya
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.3:
+        non_striker: SA Yadav
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 14.4:
+        non_striker: SA Yadav
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.5:
+        non_striker: HH Pandya
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.6:
+        non_striker: SA Yadav
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.1:
+        non_striker: SA Yadav
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 15.2:
+        non_striker: SA Yadav
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HH Pandya
+    - 15.3:
+        non_striker: SA Yadav
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.4:
+        non_striker: HH Pandya
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 15.5:
+        non_striker: HH Pandya
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 15.6:
+        non_striker: SA Yadav
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HH Pandya
+    - 15.7:
+        non_striker: SA Yadav
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.8:
+        non_striker: HH Pandya
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 16.1:
+        non_striker: SA Yadav
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 16.2:
+        non_striker: SA Yadav
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 16.3:
+        non_striker: SA Yadav
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 16.4:
+        non_striker: HH Pandya
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 16.5:
+        non_striker: HH Pandya
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 16.6:
+        non_striker: HH Pandya
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 17.1:
+        non_striker: HH Pandya
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Yadav
+    - 17.2:
+        non_striker: SA Yadav
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 17.3:
+        non_striker: SA Yadav
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 17.4:
+        non_striker: SA Yadav
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 17.5:
+        non_striker: SA Yadav
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 17.6:
+        non_striker: SA Yadav
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 18.1:
+        non_striker: HH Pandya
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 18.2:
+        non_striker: HH Pandya
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 18.3:
+        non_striker: HH Pandya
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 18.4:
+        non_striker: HH Pandya
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 18.5:
+        non_striker: HH Pandya
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 18.6:
+        non_striker: SA Yadav
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 19.1:
+        non_striker: SA Yadav
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 19.2:
+        non_striker: HH Pandya
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 19.3:
+        non_striker: HH Pandya
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 19.4:
+        non_striker: SA Yadav
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 19.5:
+        non_striker: SA Yadav
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 19.6:
+        non_striker: HH Pandya
+        bowler: Akash Madhwal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+- 2nd innings:
+    team: Rajasthan Royals
+    deliveries:
+    - 0.1:
+        non_striker: V Suryavanshi
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 0.2:
+        non_striker: V Suryavanshi
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 0.3:
+        non_striker: YBK Jaiswal
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 0.4:
+        non_striker: YBK Jaiswal
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+        wicket:
+          player_out: V Suryavanshi
+          fielders:
+          - WG Jacks
+          kind: caught
+    - 0.5:
+        non_striker: YBK Jaiswal
+        bowler: DL Chahar
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: N Rana
+    - 0.6:
+        non_striker: YBK Jaiswal
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 0.7:
+        non_striker: YBK Jaiswal
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 1.1:
+        non_striker: N Rana
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 1.2:
+        non_striker: N Rana
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.3:
+        non_striker: N Rana
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 1.4:
+        non_striker: N Rana
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+        wicket:
+          player_out: YBK Jaiswal
+          kind: bowled
+    - 1.5:
+        non_striker: N Rana
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 1.6:
+        non_striker: R Parag
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 2.1:
+        non_striker: R Parag
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 2.2:
+        non_striker: R Parag
+        bowler: DL Chahar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Rana
+    - 2.3:
+        non_striker: N Rana
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 2.4:
+        non_striker: R Parag
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 2.5:
+        non_striker: R Parag
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 2.6:
+        non_striker: R Parag
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 2.7:
+        non_striker: R Parag
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 3.1:
+        non_striker: N Rana
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Parag
+    - 3.2:
+        non_striker: N Rana
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Parag
+    - 3.3:
+        non_striker: N Rana
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 3.4:
+        non_striker: R Parag
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 3.5:
+        non_striker: R Parag
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 3.6:
+        non_striker: R Parag
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Rana
+    - 3.7:
+        non_striker: R Parag
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+        wicket:
+          player_out: N Rana
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 4.1:
+        non_striker: Dhruv Jurel
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 4.2:
+        non_striker: R Parag
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 4.3:
+        non_striker: Dhruv Jurel
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Parag
+    - 4.4:
+        non_striker: Dhruv Jurel
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+        wicket:
+          player_out: R Parag
+          fielders:
+          - RG Sharma
+          kind: caught
+    - 4.5:
+        non_striker: Dhruv Jurel
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - SA Yadav
+          kind: caught
+    - 4.6:
+        non_striker: Dhruv Jurel
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          match:
+          - in: SB Dubey
+            out: Fazalhaq Farooqi
+            team: Rajasthan Royals
+            reason: impact_player
+        batsman: SB Dubey
+    - 5.1:
+        non_striker: SB Dubey
+        bowler: C Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Dhruv Jurel
+    - 5.2:
+        non_striker: Dhruv Jurel
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Dubey
+    - 5.3:
+        non_striker: Dhruv Jurel
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 5.4:
+        non_striker: Dhruv Jurel
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 5.5:
+        non_striker: Dhruv Jurel
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SB Dubey
+    - 5.6:
+        non_striker: Dhruv Jurel
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 6.1:
+        non_striker: SB Dubey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 6.2:
+        non_striker: SB Dubey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 6.3:
+        non_striker: Dhruv Jurel
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 6.4:
+        non_striker: Dhruv Jurel
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Dubey
+    - 6.5:
+        non_striker: SB Dubey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 6.6:
+        non_striker: SB Dubey
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 7.1:
+        non_striker: Dhruv Jurel
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+        wicket:
+          player_out: SB Dubey
+          fielders:
+          - TA Boult
+          kind: caught
+    - 7.2:
+        non_striker: Dhruv Jurel
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: KV Sharma
+            out: RG Sharma
+            team: Mumbai Indians
+            reason: impact_player
+        batsman: JC Archer
+    - 7.3:
+        non_striker: Dhruv Jurel
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 7.4:
+        non_striker: Dhruv Jurel
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 7.5:
+        non_striker: Dhruv Jurel
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 7.6:
+        non_striker: JC Archer
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 8.1:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 8.2:
+        non_striker: Dhruv Jurel
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 8.3:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Dhruv Jurel
+    - 8.4:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 8.5:
+        non_striker: Dhruv Jurel
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 8.6:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+        wicket:
+          player_out: Dhruv Jurel
+          kind: caught and bowled
+    - 9.1:
+        non_striker: M Theekshana
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 9.2:
+        non_striker: M Theekshana
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 9.3:
+        non_striker: M Theekshana
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Archer
+    - 9.4:
+        non_striker: M Theekshana
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 9.5:
+        non_striker: JC Archer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 9.6:
+        non_striker: JC Archer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 10.1:
+        non_striker: JC Archer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 10.2:
+        non_striker: JC Archer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 10.3:
+        non_striker: JC Archer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 10.4:
+        non_striker: JC Archer
+        bowler: JJ Bumrah
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: M Theekshana
+    - 10.5:
+        non_striker: JC Archer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 10.6:
+        non_striker: JC Archer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 11.1:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+        wicket:
+          player_out: M Theekshana
+          fielders:
+          - SA Yadav
+          kind: caught
+    - 11.2:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kartikeya
+    - 11.3:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kartikeya
+    - 11.4:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: K Kartikeya
+    - 11.5:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kartikeya
+        wicket:
+          player_out: K Kartikeya
+          fielders:
+          - DL Chahar
+          kind: caught
+    - 11.6:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akash Madhwal
+    - 12.1:
+        non_striker: Akash Madhwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 12.2:
+        non_striker: Akash Madhwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Archer
+    - 12.3:
+        non_striker: Akash Madhwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Archer
+    - 12.4:
+        non_striker: Akash Madhwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 12.5:
+        non_striker: Akash Madhwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 12.6:
+        non_striker: JC Archer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akash Madhwal
+    - 13.1:
+        non_striker: Akash Madhwal
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 13.2:
+        non_striker: Akash Madhwal
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 13.3:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akash Madhwal
+    - 13.4:
+        non_striker: Akash Madhwal
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Archer
+    - 13.5:
+        non_striker: Akash Madhwal
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 13.6:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akash Madhwal
+    - 14.1:
+        non_striker: Akash Madhwal
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 14.2:
+        non_striker: JC Archer
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akash Madhwal
+    - 14.3:
+        non_striker: Akash Madhwal
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 14.4:
+        non_striker: Akash Madhwal
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 14.5:
+        non_striker: Akash Madhwal
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 14.6:
+        non_striker: Akash Madhwal
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 15.1:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akash Madhwal
+    - 15.2:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akash Madhwal
+    - 15.3:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akash Madhwal
+    - 15.4:
+        non_striker: Akash Madhwal
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 15.5:
+        non_striker: JC Archer
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akash Madhwal
+    - 15.6:
+        non_striker: Akash Madhwal
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 16.1:
+        non_striker: Akash Madhwal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+        wicket:
+          player_out: JC Archer
+          fielders:
+          - JJ Bumrah
+          kind: caught

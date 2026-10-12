@@ -1,0 +1,2166 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chennai
+  competition: IPL
+  dates:
+  - '2025-04-25'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sunrisers Hyderabad
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - HV Patel
+  players:
+    Chennai Super Kings:
+    - SK Rasheed
+    - A Mhatre
+    - SM Curran
+    - RA Jadeja
+    - D Brevis
+    - S Dube
+    - DJ Hooda
+    - MS Dhoni
+    - A Kamboj
+    - Noor Ahmad
+    - KK Ahmed
+    - M Pathirana
+    Sunrisers Hyderabad:
+    - Zeeshan Ansari
+    - Abhishek Sharma
+    - TM Head
+    - Ishan Kishan
+    - H Klaasen
+    - Aniket Verma
+    - PHKD Mendis
+    - Nithish Kumar Reddy
+    - PJ Cummins
+    - HV Patel
+    - JD Unadkat
+    - Mohammed Shami
+  registry:
+    people:
+      A Kamboj: fcc21ace
+      A Mhatre: b2b4f545
+      Abhishek Sharma: f29185a1
+      Aniket Verma: a3b0600d
+      D Brevis: 844e79d1
+      DJ Hooda: 73ad96ed
+      H Klaasen: 235c2bb6
+      HV Patel: f986ca1a
+      Ishan Kishan: 752f7486
+      J Srinath: bad31fac
+      JD Unadkat: 1e66c162
+      KK Ahmed: a2f46292
+      KM Gandhi: a9421c64
+      KN Ananthapadmanabhan: 3144063a
+      M Krishnadas: e298c588
+      M Pathirana: 64839cb3
+      MS Dhoni: 4a8a2e3b
+      Mohammed Shami: 8cf9814c
+      Nithish Kumar Reddy: aad0c365
+      Nitin Menon: e1d41d9e
+      Noor Ahmad: efc04be7
+      PHKD Mendis: '08548b13'
+      PJ Cummins: ded9240e
+      RA Jadeja: fe93fd9d
+      S Dube: a4e37e47
+      SK Rasheed: cbf58a86
+      SM Curran: e94915e6
+      TM Head: 12b610c2
+      Zeeshan Ansari: '36619795'
+  teams:
+  - Chennai Super Kings
+  - Sunrisers Hyderabad
+  toss:
+    winner: Sunrisers Hyderabad
+    decision: field
+  umpires:
+  - M Krishnadas
+  - Nitin Menon
+  venue: MA Chidambaram Stadium, Chepauk, Chennai
+innings:
+- 1st innings:
+    team: Chennai Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: A Mhatre
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rasheed
+        wicket:
+          player_out: SK Rasheed
+          fielders:
+          - Abhishek Sharma
+          kind: caught
+    - 0.2:
+        non_striker: A Mhatre
+        bowler: Mohammed Shami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SM Curran
+    - 0.3:
+        non_striker: A Mhatre
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 0.4:
+        non_striker: SM Curran
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mhatre
+    - 0.5:
+        non_striker: SM Curran
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mhatre
+    - 0.6:
+        non_striker: SM Curran
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mhatre
+    - 0.7:
+        non_striker: SM Curran
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mhatre
+    - 1.1:
+        non_striker: SM Curran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mhatre
+    - 1.2:
+        non_striker: SM Curran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mhatre
+    - 1.3:
+        non_striker: A Mhatre
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 1.4:
+        non_striker: A Mhatre
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 1.5:
+        non_striker: A Mhatre
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 1.6:
+        non_striker: SM Curran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mhatre
+    - 2.1:
+        non_striker: A Mhatre
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 2.2:
+        non_striker: SM Curran
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mhatre
+    - 2.3:
+        non_striker: SM Curran
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mhatre
+    - 2.4:
+        non_striker: SM Curran
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mhatre
+    - 2.5:
+        non_striker: SM Curran
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mhatre
+    - 2.6:
+        non_striker: A Mhatre
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 3.1:
+        non_striker: SM Curran
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mhatre
+    - 3.2:
+        non_striker: A Mhatre
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 3.3:
+        non_striker: SM Curran
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mhatre
+    - 3.4:
+        non_striker: SM Curran
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mhatre
+    - 3.5:
+        non_striker: SM Curran
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mhatre
+    - 3.6:
+        non_striker: SM Curran
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mhatre
+    - 4.1:
+        non_striker: A Mhatre
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 4.2:
+        non_striker: SM Curran
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mhatre
+    - 4.3:
+        non_striker: A Mhatre
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+        wicket:
+          player_out: SM Curran
+          fielders:
+          - Aniket Verma
+          kind: caught
+    - 4.4:
+        non_striker: A Mhatre
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 4.5:
+        non_striker: A Mhatre
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 4.6:
+        non_striker: A Mhatre
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 5.1:
+        non_striker: RA Jadeja
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mhatre
+    - 5.2:
+        non_striker: A Mhatre
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 5.3:
+        non_striker: RA Jadeja
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mhatre
+        wicket:
+          player_out: A Mhatre
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 5.4:
+        non_striker: RA Jadeja
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 5.5:
+        non_striker: D Brevis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 5.6:
+        non_striker: RA Jadeja
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 6.1:
+        non_striker: RA Jadeja
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 6.2:
+        non_striker: RA Jadeja
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 6.3:
+        non_striker: RA Jadeja
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 6.4:
+        non_striker: RA Jadeja
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 6.5:
+        non_striker: D Brevis
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 6.6:
+        non_striker: D Brevis
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 7.1:
+        non_striker: D Brevis
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 7.2:
+        non_striker: D Brevis
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 7.3:
+        non_striker: D Brevis
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 7.4:
+        non_striker: D Brevis
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 7.5:
+        non_striker: RA Jadeja
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.6:
+        non_striker: D Brevis
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 8.1:
+        non_striker: D Brevis
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Jadeja
+    - 8.2:
+        non_striker: D Brevis
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 8.3:
+        non_striker: RA Jadeja
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.4:
+        non_striker: D Brevis
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 8.5:
+        non_striker: RA Jadeja
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.6:
+        non_striker: D Brevis
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 9.1:
+        non_striker: RA Jadeja
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 9.2:
+        non_striker: RA Jadeja
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.3:
+        non_striker: D Brevis
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+        wicket:
+          player_out: RA Jadeja
+          kind: bowled
+    - 9.4:
+        non_striker: D Brevis
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 9.5:
+        non_striker: S Dube
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 9.6:
+        non_striker: S Dube
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 10.1:
+        non_striker: S Dube
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 10.2:
+        non_striker: S Dube
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 10.3:
+        non_striker: S Dube
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 10.4:
+        non_striker: S Dube
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 10.5:
+        non_striker: D Brevis
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 10.6:
+        non_striker: D Brevis
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 11.1:
+        non_striker: S Dube
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 11.2:
+        non_striker: S Dube
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 11.3:
+        non_striker: D Brevis
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 11.4:
+        non_striker: S Dube
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 11.5:
+        non_striker: S Dube
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 11.6:
+        non_striker: S Dube
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 12.1:
+        non_striker: D Brevis
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 12.2:
+        non_striker: D Brevis
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 12.3:
+        non_striker: S Dube
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 12.4:
+        non_striker: S Dube
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 12.5:
+        non_striker: S Dube
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - PHKD Mendis
+          kind: caught
+    - 12.6:
+        non_striker: S Dube
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hooda
+    - 13.1:
+        non_striker: S Dube
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hooda
+    - 13.2:
+        non_striker: DJ Hooda
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 13.3:
+        non_striker: DJ Hooda
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 13.4:
+        non_striker: S Dube
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hooda
+    - 13.5:
+        non_striker: DJ Hooda
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+        wicket:
+          player_out: S Dube
+          fielders:
+          - Abhishek Sharma
+          kind: caught
+    - 13.6:
+        non_striker: DJ Hooda
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 14.1:
+        non_striker: DJ Hooda
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 14.2:
+        non_striker: DJ Hooda
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 14.3:
+        non_striker: DJ Hooda
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 14.4:
+        non_striker: DJ Hooda
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MS Dhoni
+    - 14.5:
+        non_striker: MS Dhoni
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Hooda
+    - 14.6:
+        non_striker: MS Dhoni
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hooda
+    - 15.1:
+        non_striker: MS Dhoni
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hooda
+    - 15.2:
+        non_striker: DJ Hooda
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 15.3:
+        non_striker: DJ Hooda
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 15.4:
+        non_striker: MS Dhoni
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+    - 15.5:
+        non_striker: MS Dhoni
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hooda
+    - 15.6:
+        non_striker: DJ Hooda
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 16.1:
+        non_striker: MS Dhoni
+        bowler: HV Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Hooda
+    - 16.2:
+        non_striker: DJ Hooda
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 16.3:
+        non_striker: DJ Hooda
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+        wicket:
+          player_out: MS Dhoni
+          fielders:
+          - Abhishek Sharma
+          kind: caught
+    - 16.4:
+        non_striker: DJ Hooda
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: A Kamboj
+            out: S Dube
+            team: Chennai Super Kings
+            reason: impact_player
+        batsman: A Kamboj
+    - 16.5:
+        non_striker: DJ Hooda
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kamboj
+    - 16.6:
+        non_striker: DJ Hooda
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kamboj
+    - 17.1:
+        non_striker: A Kamboj
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+    - 17.2:
+        non_striker: A Kamboj
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Hooda
+    - 17.3:
+        non_striker: DJ Hooda
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kamboj
+        wicket:
+          player_out: A Kamboj
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 17.4:
+        non_striker: DJ Hooda
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 17.5:
+        non_striker: Noor Ahmad
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hooda
+    - 17.6:
+        non_striker: DJ Hooda
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 18.1:
+        non_striker: DJ Hooda
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+        wicket:
+          player_out: Noor Ahmad
+          fielders:
+          - Mohammed Shami
+          kind: caught
+    - 18.2:
+        non_striker: DJ Hooda
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Ahmed
+    - 18.3:
+        non_striker: KK Ahmed
+        bowler: HV Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Hooda
+    - 18.4:
+        non_striker: KK Ahmed
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+    - 18.5:
+        non_striker: KK Ahmed
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+    - 18.6:
+        non_striker: KK Ahmed
+        bowler: HV Patel
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: DJ Hooda
+    - 18.7:
+        non_striker: KK Ahmed
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hooda
+    - 18.8:
+        non_striker: DJ Hooda
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Ahmed
+    - 19.1:
+        non_striker: KK Ahmed
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Hooda
+    - 19.2:
+        non_striker: KK Ahmed
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+    - 19.3:
+        non_striker: KK Ahmed
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Hooda
+    - 19.4:
+        non_striker: KK Ahmed
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+    - 19.5:
+        non_striker: KK Ahmed
+        bowler: JD Unadkat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Hooda
+    - 19.6:
+        non_striker: KK Ahmed
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+        wicket:
+          player_out: DJ Hooda
+          fielders:
+          - Abhishek Sharma
+          kind: caught
+- 2nd innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        non_striker: TM Head
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: TM Head
+            out: Zeeshan Ansari
+            team: Sunrisers Hyderabad
+            reason: impact_player
+        batsman: Abhishek Sharma
+    - 0.2:
+        non_striker: TM Head
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - A Mhatre
+          kind: caught
+    - 0.3:
+        non_striker: TM Head
+        bowler: KK Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ishan Kishan
+    - 0.4:
+        non_striker: TM Head
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 0.5:
+        non_striker: Ishan Kishan
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.6:
+        non_striker: Ishan Kishan
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 0.7:
+        non_striker: Ishan Kishan
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.1:
+        non_striker: TM Head
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 1.2:
+        non_striker: TM Head
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 1.3:
+        non_striker: TM Head
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 1.4:
+        non_striker: TM Head
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 1.5:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.6:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 2.1:
+        non_striker: TM Head
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 2.2:
+        non_striker: TM Head
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.3:
+        non_striker: TM Head
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.4:
+        non_striker: TM Head
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.5:
+        non_striker: TM Head
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 2.6:
+        non_striker: TM Head
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.1:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 3.2:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.3:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.4:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.5:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.6:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 4.1:
+        non_striker: TM Head
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 4.2:
+        non_striker: Ishan Kishan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 4.3:
+        non_striker: TM Head
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 4.4:
+        non_striker: Ishan Kishan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 4.5:
+        non_striker: Ishan Kishan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 4.6:
+        non_striker: Ishan Kishan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 5.1:
+        non_striker: TM Head
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 5.2:
+        non_striker: TM Head
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 5.3:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          kind: bowled
+    - 5.4:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 5.5:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 5.6:
+        non_striker: Ishan Kishan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 6.1:
+        non_striker: H Klaasen
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 6.2:
+        non_striker: H Klaasen
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 6.3:
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 6.4:
+        non_striker: H Klaasen
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 6.5:
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 6.6:
+        non_striker: H Klaasen
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 7.1:
+        non_striker: H Klaasen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 7.2:
+        non_striker: Ishan Kishan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 7.3:
+        non_striker: Ishan Kishan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.4:
+        non_striker: H Klaasen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 7.5:
+        non_striker: H Klaasen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 7.6:
+        non_striker: H Klaasen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 8.1:
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - DJ Hooda
+          kind: caught
+    - 8.2:
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+    - 8.3:
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+    - 8.4:
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+    - 8.5:
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+    - 8.6:
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 9.1:
+        non_striker: Ishan Kishan
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aniket Verma
+    - 9.2:
+        non_striker: Aniket Verma
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 9.3:
+        non_striker: Aniket Verma
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 9.4:
+        non_striker: Ishan Kishan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aniket Verma
+    - 9.5:
+        non_striker: Ishan Kishan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 9.6:
+        non_striker: Aniket Verma
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 10.1:
+        non_striker: Aniket Verma
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 10.2:
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 10.3:
+        non_striker: Aniket Verma
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 10.4:
+        non_striker: Aniket Verma
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 10.5:
+        non_striker: Aniket Verma
+        bowler: RA Jadeja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ishan Kishan
+    - 10.6:
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aniket Verma
+    - 11.1:
+        non_striker: Aniket Verma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 11.2:
+        non_striker: Ishan Kishan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 11.3:
+        non_striker: Aniket Verma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 11.4:
+        non_striker: Ishan Kishan
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 11.5:
+        non_striker: Aniket Verma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 11.6:
+        non_striker: Aniket Verma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - SM Curran
+          kind: caught
+    - 12.1:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aniket Verma
+    - 12.2:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+    - 12.3:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+    - 12.4:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aniket Verma
+    - 12.5:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aniket Verma
+    - 12.6:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+    - 12.7:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+    - 12.8:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+    - 13.1:
+        non_striker: Aniket Verma
+        bowler: Noor Ahmad
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: PHKD Mendis
+    - 13.2:
+        non_striker: Aniket Verma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 13.3:
+        non_striker: Aniket Verma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 13.4:
+        non_striker: Aniket Verma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 13.5:
+        non_striker: Aniket Verma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 13.6:
+        non_striker: PHKD Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aniket Verma
+        wicket:
+          player_out: Aniket Verma
+          fielders:
+          - DJ Hooda
+          kind: caught
+    - 13.7:
+        non_striker: PHKD Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 14.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 14.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 14.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 14.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 14.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PHKD Mendis
+    - 14.6:
+        non_striker: Nithish Kumar Reddy
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 14.7:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 15.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 15.2:
+        non_striker: PHKD Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Nithish Kumar Reddy
+    - 15.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 15.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 15.5:
+        non_striker: Nithish Kumar Reddy
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: PHKD Mendis
+    - 15.6:
+        non_striker: PHKD Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 15.7:
+        non_striker: Nithish Kumar Reddy
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 15.8:
+        non_striker: PHKD Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nithish Kumar Reddy
+    - 16.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PHKD Mendis
+    - 16.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 16.3:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nithish Kumar Reddy
+    - 16.4:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 16.5:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nithish Kumar Reddy
+    - 16.6:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 16.7:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nithish Kumar Reddy
+    - 16.8:
+        non_striker: PHKD Mendis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 17.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 17.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 17.3:
+        non_striker: PHKD Mendis
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 17.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 17.5:
+        non_striker: PHKD Mendis
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nithish Kumar Reddy
+    - 17.6:
+        non_striker: PHKD Mendis
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 18.1:
+        non_striker: Nithish Kumar Reddy
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 18.2:
+        non_striker: Nithish Kumar Reddy
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 18.3:
+        non_striker: Nithish Kumar Reddy
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 18.4:
+        non_striker: Nithish Kumar Reddy
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis

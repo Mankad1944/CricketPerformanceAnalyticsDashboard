@@ -1,0 +1,2215 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chennai
+  competition: IPL
+  dates:
+  - '2025-04-30'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Punjab Kings
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - SS Iyer
+  players:
+    Chennai Super Kings:
+    - SK Rasheed
+    - A Mhatre
+    - SM Curran
+    - RA Jadeja
+    - D Brevis
+    - S Dube
+    - MS Dhoni
+    - DJ Hooda
+    - A Kamboj
+    - Noor Ahmad
+    - KK Ahmed
+    - M Pathirana
+    Punjab Kings:
+    - YS Chahal
+    - Priyansh Arya
+    - P Simran Singh
+    - SS Iyer
+    - N Wadhera
+    - Shashank Singh
+    - JP Inglis
+    - Suryansh Shedge
+    - M Jansen
+    - Azmatullah Omarzai
+    - Harpreet Brar
+    - Arshdeep Singh
+  registry:
+    people:
+      A Kamboj: fcc21ace
+      A Mhatre: b2b4f545
+      A Totre: b1d7d7bc
+      Amit Rana: f5db088b
+      Amit Sharma: 7ea3e0cc
+      Anish Sahasrabudhe: 2892df67
+      Arshdeep Singh: 244048f6
+      Azmatullah Omarzai: 8f6dd463
+      D Brevis: 844e79d1
+      DJ Hooda: 73ad96ed
+      Harpreet Brar: c05edf8e
+      JP Inglis: 989889ff
+      KK Ahmed: a2f46292
+      M Jansen: 81c36ee9
+      M Pathirana: 64839cb3
+      MS Dhoni: 4a8a2e3b
+      N Wadhera: d1a60072
+      Noor Ahmad: efc04be7
+      P Simran Singh: 9418198b
+      Priyansh Arya: b5797845
+      R Pandit: 8a604384
+      RA Jadeja: fe93fd9d
+      S Dube: a4e37e47
+      SK Rasheed: cbf58a86
+      SM Curran: e94915e6
+      SS Iyer: 85ec8e33
+      Shashank Singh: 26989d80
+      Suryansh Shedge: 970ddd24
+      YS Chahal: 57ee1fde
+  teams:
+  - Chennai Super Kings
+  - Punjab Kings
+  toss:
+    winner: Punjab Kings
+    decision: field
+  umpires:
+  - A Totre
+  - Anish Sahasrabudhe
+  venue: MA Chidambaram Stadium, Chepauk, Chennai
+innings:
+- 1st innings:
+    team: Chennai Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rasheed
+    - 0.2:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rasheed
+    - 0.3:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Rasheed
+    - 0.4:
+        non_striker: SK Rasheed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mhatre
+    - 0.5:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rasheed
+    - 0.6:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SK Rasheed
+    - 0.7:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rasheed
+    - 1.1:
+        non_striker: SK Rasheed
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mhatre
+    - 1.2:
+        non_striker: SK Rasheed
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mhatre
+    - 1.3:
+        non_striker: SK Rasheed
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mhatre
+    - 1.4:
+        non_striker: A Mhatre
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rasheed
+    - 1.5:
+        non_striker: A Mhatre
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rasheed
+    - 1.6:
+        non_striker: A Mhatre
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rasheed
+    - 2.1:
+        non_striker: SK Rasheed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mhatre
+    - 2.2:
+        non_striker: SK Rasheed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mhatre
+    - 2.3:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SK Rasheed
+    - 2.4:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Rasheed
+    - 2.5:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rasheed
+    - 2.6:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SK Rasheed
+    - 2.7:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rasheed
+        wicket:
+          player_out: SK Rasheed
+          fielders:
+          - Shashank Singh
+          kind: caught
+    - 2.8:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Curran
+    - 2.9:
+        non_striker: A Mhatre
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 3.1:
+        non_striker: SM Curran
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mhatre
+        wicket:
+          player_out: A Mhatre
+          fielders:
+          - SS Iyer
+          kind: caught
+    - 3.2:
+        non_striker: SM Curran
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 3.3:
+        non_striker: SM Curran
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 3.4:
+        non_striker: SM Curran
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RA Jadeja
+    - 3.5:
+        non_striker: RA Jadeja
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 3.6:
+        non_striker: RA Jadeja
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 4.1:
+        non_striker: RA Jadeja
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 4.2:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 4.3:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 4.4:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 4.5:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 4.6:
+        non_striker: RA Jadeja
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Curran
+    - 5.1:
+        non_striker: SM Curran
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 5.2:
+        non_striker: SM Curran
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 5.3:
+        non_striker: SM Curran
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 5.4:
+        non_striker: SM Curran
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 5.5:
+        non_striker: SM Curran
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+        wicket:
+          player_out: RA Jadeja
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 5.6:
+        non_striker: SM Curran
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 6.1:
+        non_striker: D Brevis
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 6.2:
+        non_striker: SM Curran
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 6.3:
+        non_striker: D Brevis
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 6.4:
+        non_striker: SM Curran
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 6.5:
+        non_striker: D Brevis
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 6.6:
+        non_striker: SM Curran
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 7.1:
+        non_striker: D Brevis
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 7.2:
+        non_striker: SM Curran
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 7.3:
+        non_striker: SM Curran
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.4:
+        non_striker: D Brevis
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Curran
+    - 7.5:
+        non_striker: D Brevis
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 7.6:
+        non_striker: D Brevis
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 8.1:
+        non_striker: D Brevis
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 8.2:
+        non_striker: D Brevis
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 8.3:
+        non_striker: D Brevis
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 8.4:
+        non_striker: SM Curran
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 8.5:
+        non_striker: SM Curran
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 8.6:
+        non_striker: SM Curran
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.1:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 9.2:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 9.3:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.4:
+        non_striker: D Brevis
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 9.5:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 9.6:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 10.1:
+        non_striker: SM Curran
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 10.2:
+        non_striker: SM Curran
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 10.3:
+        non_striker: D Brevis
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 10.4:
+        non_striker: SM Curran
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 10.5:
+        non_striker: D Brevis
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 10.6:
+        non_striker: SM Curran
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 11.1:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: D Brevis
+    - 11.2:
+        non_striker: D Brevis
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 11.3:
+        non_striker: D Brevis
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 11.4:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 11.5:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 11.6:
+        non_striker: D Brevis
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 11.7:
+        non_striker: D Brevis
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 11.8:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 12.1:
+        non_striker: D Brevis
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 12.2:
+        non_striker: D Brevis
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 12.3:
+        non_striker: SM Curran
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 12.4:
+        non_striker: D Brevis
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 12.5:
+        non_striker: SM Curran
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 12.6:
+        non_striker: D Brevis
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 13.1:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Curran
+    - 13.2:
+        non_striker: SM Curran
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 13.3:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 13.4:
+        non_striker: SM Curran
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 13.5:
+        non_striker: SM Curran
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 13.6:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Curran
+    - 13.7:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 14.1:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          kind: bowled
+    - 14.2:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 14.3:
+        non_striker: S Dube
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Curran
+    - 14.4:
+        non_striker: S Dube
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 14.5:
+        non_striker: S Dube
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 14.6:
+        non_striker: SM Curran
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 15.1:
+        non_striker: S Dube
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Curran
+    - 15.2:
+        non_striker: S Dube
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Curran
+    - 15.3:
+        non_striker: S Dube
+        bowler: Suryansh Shedge
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: SM Curran
+    - 15.4:
+        non_striker: S Dube
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Curran
+    - 15.5:
+        non_striker: S Dube
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 15.6:
+        non_striker: S Dube
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 15.7:
+        non_striker: S Dube
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 16.1:
+        non_striker: S Dube
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 16.2:
+        non_striker: S Dube
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Curran
+    - 16.3:
+        non_striker: S Dube
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 16.4:
+        non_striker: S Dube
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 16.5:
+        non_striker: SM Curran
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dube
+    - 16.6:
+        non_striker: SM Curran
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 16.7:
+        non_striker: S Dube
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 16.8:
+        non_striker: S Dube
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 17.1:
+        non_striker: SM Curran
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Dube
+    - 17.2:
+        non_striker: S Dube
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Curran
+    - 17.3:
+        non_striker: S Dube
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Curran
+    - 17.4:
+        non_striker: S Dube
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 17.5:
+        non_striker: S Dube
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+        wicket:
+          player_out: SM Curran
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 17.6:
+        non_striker: S Dube
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 17.7:
+        non_striker: S Dube
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 18.1:
+        non_striker: S Dube
+        bowler: YS Chahal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Dhoni
+    - 18.2:
+        non_striker: S Dube
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 18.3:
+        non_striker: S Dube
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+        wicket:
+          player_out: MS Dhoni
+          fielders:
+          - N Wadhera
+          kind: caught
+    - 18.4:
+        non_striker: S Dube
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Hooda
+    - 18.5:
+        non_striker: S Dube
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hooda
+        wicket:
+          player_out: DJ Hooda
+          fielders:
+          - Priyansh Arya
+          kind: caught
+    - 18.6:
+        non_striker: S Dube
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: A Kamboj
+            out: A Mhatre
+            team: Chennai Super Kings
+            reason: impact_player
+        batsman: A Kamboj
+        wicket:
+          player_out: A Kamboj
+          kind: bowled
+    - 18.7:
+        non_striker: S Dube
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+        wicket:
+          player_out: Noor Ahmad
+          fielders:
+          - M Jansen
+          kind: caught
+    - 19.1:
+        non_striker: KK Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 19.2:
+        non_striker: KK Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+        wicket:
+          player_out: S Dube
+          fielders:
+          - Shashank Singh
+          kind: caught
+- 2nd innings:
+    team: Punjab Kings
+    deliveries:
+    - 0.1:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: P Simran Singh
+            out: YS Chahal
+            team: Punjab Kings
+            reason: impact_player
+        batsman: Priyansh Arya
+    - 0.2:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 0.3:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 0.4:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 0.5:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 0.6:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 1.1:
+        non_striker: Priyansh Arya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 1.2:
+        non_striker: P Simran Singh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 1.3:
+        non_striker: P Simran Singh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 1.4:
+        non_striker: Priyansh Arya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 1.5:
+        non_striker: P Simran Singh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 1.6:
+        non_striker: Priyansh Arya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 2.1:
+        non_striker: Priyansh Arya
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 2.2:
+        non_striker: Priyansh Arya
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 2.3:
+        non_striker: Priyansh Arya
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 2.4:
+        non_striker: Priyansh Arya
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 2.5:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 2.6:
+        non_striker: Priyansh Arya
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 3.1:
+        non_striker: Priyansh Arya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 3.2:
+        non_striker: Priyansh Arya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 3.3:
+        non_striker: Priyansh Arya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 3.4:
+        non_striker: Priyansh Arya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 3.5:
+        non_striker: P Simran Singh
+        bowler: A Kamboj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Priyansh Arya
+    - 3.6:
+        non_striker: Priyansh Arya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 4.1:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 4.2:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 4.3:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 4.4:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+        wicket:
+          player_out: Priyansh Arya
+          fielders:
+          - MS Dhoni
+          kind: caught
+    - 4.5:
+        non_striker: P Simran Singh
+        bowler: KK Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SS Iyer
+    - 4.6:
+        non_striker: SS Iyer
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 5.1:
+        non_striker: P Simran Singh
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 5.2:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 5.3:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 5.4:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 5.5:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 5.6:
+        non_striker: P Simran Singh
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 6.1:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 6.2:
+        non_striker: P Simran Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 6.3:
+        non_striker: P Simran Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 6.4:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 6.5:
+        non_striker: P Simran Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 6.6:
+        non_striker: P Simran Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 7.1:
+        non_striker: P Simran Singh
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 7.2:
+        non_striker: P Simran Singh
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 7.3:
+        non_striker: P Simran Singh
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 7.4:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 7.5:
+        non_striker: P Simran Singh
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 7.6:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 8.1:
+        non_striker: P Simran Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 8.2:
+        non_striker: P Simran Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 8.3:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 8.4:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 8.5:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 8.6:
+        non_striker: P Simran Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 9.1:
+        non_striker: P Simran Singh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 9.2:
+        non_striker: P Simran Singh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 9.3:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 9.4:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 9.5:
+        non_striker: P Simran Singh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 9.6:
+        non_striker: P Simran Singh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 10.1:
+        non_striker: P Simran Singh
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Iyer
+    - 10.2:
+        non_striker: P Simran Singh
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 10.3:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 10.4:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 10.5:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 10.6:
+        non_striker: P Simran Singh
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 10.7:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 11.1:
+        non_striker: P Simran Singh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 11.2:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 11.3:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 11.4:
+        non_striker: P Simran Singh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 11.5:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 11.6:
+        non_striker: P Simran Singh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 12.1:
+        non_striker: P Simran Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 12.2:
+        non_striker: P Simran Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 12.3:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 12.4:
+        non_striker: P Simran Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 12.5:
+        non_striker: P Simran Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 12.6:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+        wicket:
+          player_out: P Simran Singh
+          fielders:
+          - D Brevis
+          kind: caught
+    - 13.1:
+        non_striker: N Wadhera
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 13.2:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 13.3:
+        non_striker: N Wadhera
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 13.4:
+        non_striker: N Wadhera
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 13.5:
+        non_striker: N Wadhera
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 13.6:
+        non_striker: N Wadhera
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 14.1:
+        non_striker: N Wadhera
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 14.2:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Wadhera
+    - 14.3:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+        wicket:
+          player_out: N Wadhera
+          fielders:
+          - RA Jadeja
+          kind: caught
+    - 14.4:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+    - 14.5:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 14.6:
+        non_striker: Shashank Singh
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 15.1:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shashank Singh
+    - 15.2:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+    - 15.3:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 15.4:
+        non_striker: Shashank Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 15.5:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shashank Singh
+    - 15.6:
+        non_striker: SS Iyer
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 16.1:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 16.2:
+        non_striker: Shashank Singh
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 16.3:
+        non_striker: Shashank Singh
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 16.4:
+        non_striker: Shashank Singh
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Iyer
+    - 16.5:
+        non_striker: Shashank Singh
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 16.6:
+        non_striker: Shashank Singh
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 16.7:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 17.1:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shashank Singh
+    - 17.2:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shashank Singh
+    - 17.3:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+        wicket:
+          player_out: Shashank Singh
+          fielders:
+          - D Brevis
+          kind: caught
+    - 17.4:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 17.5:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 17.6:
+        non_striker: SS Iyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 18.1:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Inglis
+    - 18.2:
+        non_striker: JP Inglis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 18.3:
+        non_striker: SS Iyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 18.4:
+        non_striker: JP Inglis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+        wicket:
+          player_out: SS Iyer
+          kind: bowled
+    - 18.5:
+        non_striker: JP Inglis
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suryansh Shedge
+    - 18.6:
+        non_striker: Suryansh Shedge
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 19.1:
+        non_striker: JP Inglis
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suryansh Shedge
+    - 19.2:
+        non_striker: JP Inglis
+        bowler: KK Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Suryansh Shedge
+    - 19.3:
+        non_striker: JP Inglis
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suryansh Shedge
+        wicket:
+          player_out: Suryansh Shedge
+          fielders:
+          - Noor Ahmad
+          kind: caught
+    - 19.4:
+        non_striker: JP Inglis
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 19.5:
+        non_striker: JP Inglis
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Jansen

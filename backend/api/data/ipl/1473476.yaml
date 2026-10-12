@@ -1,0 +1,2176 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kolkata
+  competition: IPL
+  dates:
+  - '2025-04-21'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gujarat Titans
+    by:
+      runs: 39
+  overs: 20
+  player_of_match:
+  - Shubman Gill
+  players:
+    Gujarat Titans:
+    - SE Rutherford
+    - B Sai Sudharsan
+    - Shubman Gill
+    - JC Buttler
+    - R Tewatia
+    - M Shahrukh Khan
+    - Rashid Khan
+    - Washington Sundar
+    - R Sai Kishore
+    - Mohammed Siraj
+    - M Prasidh Krishna
+    - I Sharma
+    Kolkata Knight Riders:
+    - VG Arora
+    - Rahmanullah Gurbaz
+    - SP Narine
+    - AM Rahane
+    - VR Iyer
+    - RK Singh
+    - AD Russell
+    - Ramandeep Singh
+    - MM Ali
+    - A Raghuvanshi
+    - Harshit Rana
+    - CV Varun
+  registry:
+    people:
+      A Raghuvanshi: d7017798
+      A Totre: b1d7d7bc
+      AD Russell: bbd41817
+      AM Rahane: 29e95537
+      Amit Rana: f5db088b
+      Anish Sahasrabudhe: 2892df67
+      B Sai Sudharsan: d5130a30
+      CV Varun: 5b7ab5a9
+      Harshit Rana: 77b1aa15
+      I Sharma: 5bb1a1c4
+      JC Buttler: 99b75528
+      M Prasidh Krishna: 85e0cf10
+      M Shahrukh Khan: 7dcb9bc9
+      MM Ali: bb351c23
+      Mohammed Siraj: 2f49c897
+      R Pandit: 8a604384
+      R Sai Kishore: c7a995d3
+      R Seth: 540a44ba
+      R Tewatia: 39a2dfa8
+      RK Singh: 0a509d6b
+      Rahmanullah Gurbaz: 0bacade8
+      Ramandeep Singh: be24ead0
+      Rashid Khan: 5f547c8b
+      SE Rutherford: d014d5ac
+      SP Narine: 9d430b40
+      Shubman Gill: b4b99816
+      VG Arora: 7c3b3b78
+      VR Iyer: a24be938
+      Washington Sundar: f19ccfad
+  teams:
+  - Gujarat Titans
+  - Kolkata Knight Riders
+  toss:
+    winner: Kolkata Knight Riders
+    decision: field
+  umpires:
+  - Anish Sahasrabudhe
+  - R Pandit
+  venue: Eden Gardens, Kolkata
+innings:
+- 1st innings:
+    team: Gujarat Titans
+    deliveries:
+    - 0.1:
+        non_striker: Shubman Gill
+        bowler: VG Arora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Sai Sudharsan
+    - 0.2:
+        non_striker: Shubman Gill
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 0.3:
+        non_striker: B Sai Sudharsan
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 0.4:
+        non_striker: B Sai Sudharsan
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 0.5:
+        non_striker: B Sai Sudharsan
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 0.6:
+        non_striker: B Sai Sudharsan
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 0.7:
+        non_striker: Shubman Gill
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 1.1:
+        non_striker: Shubman Gill
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 1.2:
+        non_striker: Shubman Gill
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 1.3:
+        non_striker: B Sai Sudharsan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 1.4:
+        non_striker: Shubman Gill
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 1.5:
+        non_striker: B Sai Sudharsan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 1.6:
+        non_striker: Shubman Gill
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 2.1:
+        non_striker: B Sai Sudharsan
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 2.2:
+        non_striker: Shubman Gill
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 2.3:
+        non_striker: Shubman Gill
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 2.4:
+        non_striker: B Sai Sudharsan
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 2.5:
+        non_striker: Shubman Gill
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 2.6:
+        non_striker: Shubman Gill
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 3.1:
+        non_striker: Shubman Gill
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 3.2:
+        non_striker: B Sai Sudharsan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 3.3:
+        non_striker: B Sai Sudharsan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 3.4:
+        non_striker: B Sai Sudharsan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 3.5:
+        non_striker: Shubman Gill
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 3.6:
+        non_striker: Shubman Gill
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 4.1:
+        non_striker: B Sai Sudharsan
+        bowler: Harshit Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 4.2:
+        non_striker: B Sai Sudharsan
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 4.3:
+        non_striker: B Sai Sudharsan
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 4.4:
+        non_striker: B Sai Sudharsan
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 4.5:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 4.6:
+        non_striker: B Sai Sudharsan
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 4.7:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 5.1:
+        non_striker: B Sai Sudharsan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 5.2:
+        non_striker: B Sai Sudharsan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 5.3:
+        non_striker: B Sai Sudharsan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 5.4:
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 5.5:
+        non_striker: B Sai Sudharsan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 5.6:
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 6.1:
+        non_striker: B Sai Sudharsan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 6.2:
+        non_striker: B Sai Sudharsan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 6.3:
+        non_striker: B Sai Sudharsan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 6.4:
+        non_striker: B Sai Sudharsan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.5:
+        non_striker: B Sai Sudharsan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 6.6:
+        non_striker: B Sai Sudharsan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.1:
+        non_striker: B Sai Sudharsan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.2:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 7.3:
+        non_striker: B Sai Sudharsan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.4:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 7.5:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 7.6:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 8.1:
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 8.2:
+        non_striker: B Sai Sudharsan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 8.3:
+        non_striker: B Sai Sudharsan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 8.4:
+        non_striker: B Sai Sudharsan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 8.5:
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 8.6:
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 9.1:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 9.2:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 9.3:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 9.4:
+        non_striker: B Sai Sudharsan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 9.5:
+        non_striker: B Sai Sudharsan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 9.6:
+        non_striker: B Sai Sudharsan
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Shubman Gill
+    - 9.7:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 10.1:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 10.2:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 10.3:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Sai Sudharsan
+    - 10.4:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 10.5:
+        non_striker: B Sai Sudharsan
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 10.6:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Sai Sudharsan
+    - 10.7:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 11.1:
+        non_striker: B Sai Sudharsan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 11.2:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 11.3:
+        non_striker: B Sai Sudharsan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 11.4:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 11.5:
+        non_striker: B Sai Sudharsan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 11.6:
+        non_striker: B Sai Sudharsan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 12.1:
+        non_striker: B Sai Sudharsan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 12.2:
+        non_striker: Shubman Gill
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+        wicket:
+          player_out: B Sai Sudharsan
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 12.3:
+        non_striker: Shubman Gill
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 12.4:
+        non_striker: Shubman Gill
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 12.5:
+        non_striker: Shubman Gill
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 12.6:
+        non_striker: Shubman Gill
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 13.1:
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 13.2:
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 13.3:
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 13.4:
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 13.5:
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 13.6:
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 14.1:
+        non_striker: JC Buttler
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 14.2:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 14.3:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 14.4:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 14.5:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 14.6:
+        non_striker: Shubman Gill
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 15.1:
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 15.2:
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 15.3:
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 15.4:
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 15.5:
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 15.6:
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 16.1:
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 16.2:
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 16.3:
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 16.4:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 16.5:
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 16.6:
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 17.1:
+        non_striker: JC Buttler
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 17.2:
+        non_striker: JC Buttler
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 17.3:
+        non_striker: JC Buttler
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 17.4:
+        non_striker: JC Buttler
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 17.5:
+        non_striker: JC Buttler
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          fielders:
+          - RK Singh
+          kind: caught
+    - 17.6:
+        non_striker: JC Buttler
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+    - 18.1:
+        non_striker: R Tewatia
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 18.2:
+        non_striker: R Tewatia
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 18.3:
+        non_striker: JC Buttler
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+        wicket:
+          player_out: R Tewatia
+          fielders:
+          - Ramandeep Singh
+          kind: caught
+    - 18.4:
+        non_striker: JC Buttler
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shahrukh Khan
+    - 18.5:
+        non_striker: M Shahrukh Khan
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 18.6:
+        non_striker: JC Buttler
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shahrukh Khan
+    - 19.1:
+        non_striker: JC Buttler
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shahrukh Khan
+    - 19.2:
+        non_striker: M Shahrukh Khan
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 19.3:
+        non_striker: M Shahrukh Khan
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 19.4:
+        non_striker: M Shahrukh Khan
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 19.5:
+        non_striker: JC Buttler
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Shahrukh Khan
+    - 19.6:
+        non_striker: JC Buttler
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shahrukh Khan
+- 2nd innings:
+    team: Kolkata Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: I Sharma
+            out: SE Rutherford
+            team: Gujarat Titans
+            reason: impact_player
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SP Narine
+    - 0.5:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          kind: lbw
+    - 0.6:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 1.1:
+        non_striker: AM Rahane
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Narine
+    - 1.2:
+        non_striker: AM Rahane
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 1.3:
+        non_striker: SP Narine
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 1.4:
+        non_striker: AM Rahane
+        bowler: I Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SP Narine
+    - 1.5:
+        non_striker: SP Narine
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 1.6:
+        non_striker: SP Narine
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 2.1:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 2.2:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 2.3:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rahane
+    - 2.4:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 2.5:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 2.6:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 3.1:
+        non_striker: AM Rahane
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 3.2:
+        non_striker: AM Rahane
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 3.3:
+        non_striker: AM Rahane
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 3.4:
+        non_striker: SP Narine
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 3.5:
+        non_striker: SP Narine
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 3.6:
+        non_striker: SP Narine
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 4.1:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Narine
+    - 4.2:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Narine
+    - 4.3:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SP Narine
+    - 4.4:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 4.5:
+        non_striker: SP Narine
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 4.6:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 4.7:
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 5.1:
+        non_striker: SP Narine
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 5.2:
+        non_striker: SP Narine
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 5.3:
+        non_striker: AM Rahane
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+        wicket:
+          player_out: SP Narine
+          fielders:
+          - R Tewatia
+          kind: caught
+    - 5.4:
+        non_striker: AM Rahane
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VR Iyer
+    - 5.5:
+        non_striker: VR Iyer
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 5.6:
+        non_striker: AM Rahane
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VR Iyer
+    - 6.1:
+        non_striker: VR Iyer
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Rahane
+    - 6.2:
+        non_striker: VR Iyer
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 6.3:
+        non_striker: AM Rahane
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VR Iyer
+    - 6.4:
+        non_striker: AM Rahane
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VR Iyer
+    - 6.5:
+        non_striker: VR Iyer
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 6.6:
+        non_striker: VR Iyer
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 6.7:
+        non_striker: AM Rahane
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VR Iyer
+    - 7.1:
+        non_striker: AM Rahane
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VR Iyer
+    - 7.2:
+        non_striker: AM Rahane
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VR Iyer
+    - 7.3:
+        non_striker: VR Iyer
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 7.4:
+        non_striker: VR Iyer
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 7.5:
+        non_striker: AM Rahane
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VR Iyer
+    - 7.6:
+        non_striker: AM Rahane
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: VR Iyer
+    - 8.1:
+        non_striker: AM Rahane
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VR Iyer
+    - 8.2:
+        non_striker: VR Iyer
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 8.3:
+        non_striker: AM Rahane
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VR Iyer
+    - 8.4:
+        non_striker: VR Iyer
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rahane
+    - 8.5:
+        non_striker: VR Iyer
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 8.6:
+        non_striker: AM Rahane
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VR Iyer
+    - 9.1:
+        non_striker: VR Iyer
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 9.2:
+        non_striker: AM Rahane
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VR Iyer
+    - 9.3:
+        non_striker: VR Iyer
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rahane
+    - 9.4:
+        non_striker: VR Iyer
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 9.5:
+        non_striker: AM Rahane
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VR Iyer
+    - 9.6:
+        non_striker: AM Rahane
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VR Iyer
+    - 10.1:
+        non_striker: VR Iyer
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 10.2:
+        non_striker: VR Iyer
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 10.3:
+        non_striker: AM Rahane
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VR Iyer
+    - 10.4:
+        non_striker: AM Rahane
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VR Iyer
+    - 10.5:
+        non_striker: VR Iyer
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rahane
+    - 10.6:
+        non_striker: VR Iyer
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 11.1:
+        non_striker: VR Iyer
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 11.2:
+        non_striker: AM Rahane
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VR Iyer
+    - 11.3:
+        non_striker: AM Rahane
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VR Iyer
+        wicket:
+          player_out: VR Iyer
+          fielders:
+          - Washington Sundar
+          kind: caught
+    - 11.4:
+        non_striker: AM Rahane
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 11.5:
+        non_striker: RK Singh
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 11.6:
+        non_striker: AM Rahane
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 12.1:
+        non_striker: RK Singh
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rahane
+    - 12.2:
+        non_striker: RK Singh
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 12.3:
+        non_striker: AM Rahane
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 12.4:
+        non_striker: RK Singh
+        bowler: Washington Sundar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Rahane
+        wicket:
+          player_out: AM Rahane
+          fielders:
+          - JC Buttler
+          kind: stumped
+    - 12.5:
+        non_striker: RK Singh
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 12.6:
+        non_striker: RK Singh
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 12.7:
+        non_striker: RK Singh
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 13.1:
+        non_striker: AD Russell
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 13.2:
+        non_striker: RK Singh
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 13.3:
+        non_striker: AD Russell
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 13.4:
+        non_striker: RK Singh
+        bowler: R Sai Kishore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 13.5:
+        non_striker: RK Singh
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.6:
+        non_striker: RK Singh
+        bowler: R Sai Kishore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 13.7:
+        non_striker: RK Singh
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 13.8:
+        non_striker: AD Russell
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 14.1:
+        non_striker: AD Russell
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 14.2:
+        non_striker: AD Russell
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 14.3:
+        non_striker: RK Singh
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 14.4:
+        non_striker: RK Singh
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 14.5:
+        non_striker: RK Singh
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 14.6:
+        non_striker: RK Singh
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 15.1:
+        non_striker: RK Singh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.2:
+        non_striker: RK Singh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.3:
+        non_striker: RK Singh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 15.4:
+        non_striker: RK Singh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.5:
+        non_striker: RK Singh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+        wicket:
+          player_out: AD Russell
+          fielders:
+          - JC Buttler
+          kind: stumped
+    - 15.6:
+        non_striker: RK Singh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ramandeep Singh
+    - 16.1:
+        non_striker: RK Singh
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ramandeep Singh
+        wicket:
+          player_out: Ramandeep Singh
+          kind: caught and bowled
+    - 16.2:
+        non_striker: RK Singh
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 16.3:
+        non_striker: RK Singh
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          fielders:
+          - M Shahrukh Khan
+          kind: caught
+    - 16.4:
+        non_striker: RK Singh
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          match:
+          - in: A Raghuvanshi
+            out: VG Arora
+            team: Kolkata Knight Riders
+            reason: impact_player
+        batsman: A Raghuvanshi
+    - 16.5:
+        non_striker: RK Singh
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 16.6:
+        non_striker: A Raghuvanshi
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 17.1:
+        non_striker: RK Singh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 17.2:
+        non_striker: RK Singh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Raghuvanshi
+    - 17.3:
+        non_striker: RK Singh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 17.4:
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 17.5:
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 17.6:
+        non_striker: RK Singh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 18.1:
+        non_striker: RK Singh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Raghuvanshi
+    - 18.2:
+        non_striker: RK Singh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 18.3:
+        non_striker: RK Singh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 18.4:
+        non_striker: A Raghuvanshi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 18.5:
+        non_striker: A Raghuvanshi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RK Singh
+    - 18.6:
+        non_striker: RK Singh
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 19.1:
+        non_striker: A Raghuvanshi
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+        wicket:
+          player_out: RK Singh
+          fielders:
+          - Shubman Gill
+          kind: caught
+    - 19.2:
+        non_striker: A Raghuvanshi
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 19.3:
+        non_striker: A Raghuvanshi
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harshit Rana
+    - 19.4:
+        non_striker: Harshit Rana
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Raghuvanshi
+    - 19.5:
+        non_striker: Harshit Rana
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 19.6:
+        non_striker: Harshit Rana
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi

@@ -1,0 +1,1461 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bengaluru
+  competition: IPL
+  dates:
+  - '2025-04-18'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Punjab Kings
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - TH David
+  players:
+    Royal Challengers Bengaluru:
+    - PD Salt
+    - V Kohli
+    - RM Patidar
+    - LS Livingstone
+    - JM Sharma
+    - KH Pandya
+    - TH David
+    - MS Bhandage
+    - B Kumar
+    - Yash Dayal
+    - JR Hazlewood
+    - Suyash Sharma
+    Punjab Kings:
+    - YS Chahal
+    - Priyansh Arya
+    - P Simran Singh
+    - SS Iyer
+    - JP Inglis
+    - N Wadhera
+    - Shashank Singh
+    - MP Stoinis
+    - Harpreet Brar
+    - M Jansen
+    - XC Bartlett
+    - Arshdeep Singh
+  registry:
+    people:
+      Arshdeep Singh: 244048f6
+      B Kumar: 2e81a32d
+      Harpreet Brar: c05edf8e
+      JM Sharma: 800d2d97
+      JP Inglis: 989889ff
+      JR Hazlewood: '03806cf8'
+      K Swaroopanand: aa2a4962
+      KH Pandya: 5b8c830e
+      LS Livingstone: 50c6bc2b
+      M Jansen: 81c36ee9
+      MA Gough: 76752ac8
+      MP Stoinis: d9273ee7
+      MS Bhandage: e96801ea
+      N Wadhera: d1a60072
+      P Simran Singh: 9418198b
+      PD Salt: 3d284ca3
+      Priyansh Arya: b5797845
+      RM Patidar: c740ea83
+      SS Iyer: 85ec8e33
+      Shashank Singh: 26989d80
+      Suyash Sharma: 9440ef41
+      TH David: f1f99156
+      UV Gandhe: 43dd4011
+      V Kohli: ba607b88
+      V Narayan Kutty: 4bacee3d
+      VK Sharma: a7a49df4
+      XC Bartlett: 3b53243a
+      YS Chahal: 57ee1fde
+      Yash Dayal: 7210d461
+  teams:
+  - Royal Challengers Bengaluru
+  - Punjab Kings
+  toss:
+    winner: Punjab Kings
+    decision: field
+  umpires:
+  - UV Gandhe
+  - VK Sharma
+  venue: M Chinnaswamy Stadium, Bengaluru
+innings:
+- 1st innings:
+    team: Royal Challengers Bengaluru
+    deliveries:
+    - 0.1:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 0.2:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 0.3:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 0.4:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 0.5:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Patidar
+    - 0.6:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 1.1:
+        non_striker: V Kohli
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Patidar
+    - 1.2:
+        non_striker: V Kohli
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Patidar
+    - 1.3:
+        non_striker: V Kohli
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Patidar
+    - 1.4:
+        non_striker: V Kohli
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Patidar
+    - 1.5:
+        non_striker: V Kohli
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Patidar
+    - 1.6:
+        non_striker: V Kohli
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Patidar
+    - 2.1:
+        non_striker: RM Patidar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 2.2:
+        non_striker: RM Patidar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.3:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 2.4:
+        non_striker: RM Patidar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          fielders:
+          - M Jansen
+          kind: caught
+    - 2.5:
+        non_striker: RM Patidar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 2.6:
+        non_striker: RM Patidar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 3.1:
+        non_striker: LS Livingstone
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Patidar
+    - 3.2:
+        non_striker: LS Livingstone
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 3.3:
+        non_striker: RM Patidar
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 3.4:
+        non_striker: RM Patidar
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 3.5:
+        non_striker: RM Patidar
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 3.6:
+        non_striker: RM Patidar
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+        wicket:
+          player_out: LS Livingstone
+          fielders:
+          - Priyansh Arya
+          kind: caught
+    - 4.1:
+        non_striker: JM Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 4.2:
+        non_striker: RM Patidar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 4.3:
+        non_striker: RM Patidar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 4.4:
+        non_striker: JM Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 4.5:
+        non_striker: RM Patidar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 4.6:
+        non_striker: RM Patidar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 5.1:
+        non_striker: JM Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 5.2:
+        non_striker: RM Patidar
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 5.3:
+        non_striker: RM Patidar
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 5.4:
+        non_striker: JM Sharma
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 5.5:
+        non_striker: RM Patidar
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+        wicket:
+          player_out: JM Sharma
+          fielders:
+          - N Wadhera
+          kind: caught
+    - 5.6:
+        non_striker: RM Patidar
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Pandya
+    - 6.1:
+        non_striker: RM Patidar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Pandya
+        wicket:
+          player_out: KH Pandya
+          kind: caught and bowled
+    - 6.2:
+        non_striker: RM Patidar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 6.3:
+        non_striker: RM Patidar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 6.4:
+        non_striker: TH David
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 6.5:
+        non_striker: RM Patidar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 6.6:
+        non_striker: RM Patidar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 7.1:
+        non_striker: TH David
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 7.2:
+        non_striker: RM Patidar
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 7.3:
+        non_striker: RM Patidar
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 7.4:
+        non_striker: TH David
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Patidar
+        wicket:
+          player_out: RM Patidar
+          fielders:
+          - XC Bartlett
+          kind: caught
+    - 7.5:
+        non_striker: TH David
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: MS Bhandage
+            out: LS Livingstone
+            team: Royal Challengers Bengaluru
+            reason: impact_player
+        batsman: MS Bhandage
+    - 7.6:
+        non_striker: TH David
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Bhandage
+    - 8.1:
+        non_striker: TH David
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Bhandage
+    - 8.2:
+        non_striker: TH David
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Bhandage
+        wicket:
+          player_out: MS Bhandage
+          kind: lbw
+    - 8.3:
+        non_striker: TH David
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 8.4:
+        non_striker: TH David
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 8.5:
+        non_striker: TH David
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 8.6:
+        non_striker: TH David
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Kumar
+    - 9.1:
+        non_striker: TH David
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Kumar
+    - 9.2:
+        non_striker: B Kumar
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 9.3:
+        non_striker: TH David
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 9.4:
+        non_striker: TH David
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 9.5:
+        non_striker: TH David
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Kumar
+    - 9.6:
+        non_striker: B Kumar
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.1:
+        non_striker: B Kumar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 10.2:
+        non_striker: B Kumar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 10.3:
+        non_striker: B Kumar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 10.4:
+        non_striker: B Kumar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 10.5:
+        non_striker: B Kumar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.6:
+        non_striker: TH David
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Kumar
+    - 11.1:
+        non_striker: TH David
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 11.2:
+        non_striker: TH David
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 11.3:
+        non_striker: TH David
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Kumar
+    - 11.4:
+        non_striker: TH David
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+        wicket:
+          player_out: B Kumar
+          fielders:
+          - XC Bartlett
+          kind: caught
+    - 11.5:
+        non_striker: TH David
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yash Dayal
+        wicket:
+          player_out: Yash Dayal
+          kind: lbw
+    - 11.6:
+        non_striker: TH David
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+    - 12.1:
+        non_striker: JR Hazlewood
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 12.2:
+        non_striker: JR Hazlewood
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 12.3:
+        non_striker: JR Hazlewood
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 12.4:
+        non_striker: JR Hazlewood
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 12.5:
+        non_striker: JR Hazlewood
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 12.6:
+        non_striker: JR Hazlewood
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 13.1:
+        non_striker: JR Hazlewood
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 13.2:
+        non_striker: JR Hazlewood
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 13.3:
+        non_striker: JR Hazlewood
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 13.4:
+        non_striker: JR Hazlewood
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 13.5:
+        non_striker: JR Hazlewood
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 13.6:
+        non_striker: JR Hazlewood
+        bowler: Harpreet Brar
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: TH David
+    - 13.7:
+        non_striker: JR Hazlewood
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+- 2nd innings:
+    team: Punjab Kings
+    deliveries:
+    - 0.1:
+        non_striker: P Simran Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: P Simran Singh
+            out: YS Chahal
+            team: Punjab Kings
+            reason: impact_player
+        batsman: Priyansh Arya
+    - 0.2:
+        non_striker: P Simran Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 0.3:
+        non_striker: Priyansh Arya
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 0.4:
+        non_striker: P Simran Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 0.5:
+        non_striker: Priyansh Arya
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 0.6:
+        non_striker: Priyansh Arya
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 1.1:
+        non_striker: P Simran Singh
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 1.2:
+        non_striker: P Simran Singh
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 1.3:
+        non_striker: Priyansh Arya
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 1.4:
+        non_striker: P Simran Singh
+        bowler: Yash Dayal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Priyansh Arya
+    - 1.5:
+        non_striker: P Simran Singh
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 1.6:
+        non_striker: Priyansh Arya
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 1.7:
+        non_striker: P Simran Singh
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 2.1:
+        non_striker: Priyansh Arya
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Simran Singh
+    - 2.2:
+        non_striker: Priyansh Arya
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 2.3:
+        non_striker: Priyansh Arya
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 2.4:
+        non_striker: Priyansh Arya
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+        wicket:
+          player_out: P Simran Singh
+          fielders:
+          - TH David
+          kind: caught
+    - 2.5:
+        non_striker: Priyansh Arya
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 2.6:
+        non_striker: SS Iyer
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 3.1:
+        non_striker: Priyansh Arya
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 3.2:
+        non_striker: SS Iyer
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyansh Arya
+    - 3.3:
+        non_striker: SS Iyer
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 3.4:
+        non_striker: SS Iyer
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+        wicket:
+          player_out: Priyansh Arya
+          fielders:
+          - TH David
+          kind: caught
+    - 3.5:
+        non_striker: SS Iyer
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 3.6:
+        non_striker: SS Iyer
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 4.1:
+        non_striker: SS Iyer
+        bowler: Yash Dayal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Inglis
+    - 4.2:
+        non_striker: SS Iyer
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 4.3:
+        non_striker: SS Iyer
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 4.4:
+        non_striker: JP Inglis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 4.5:
+        non_striker: SS Iyer
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 4.6:
+        non_striker: SS Iyer
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 4.7:
+        non_striker: SS Iyer
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 5.1:
+        non_striker: JP Inglis
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 5.2:
+        non_striker: SS Iyer
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 5.3:
+        non_striker: SS Iyer
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 5.4:
+        non_striker: SS Iyer
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 5.5:
+        non_striker: SS Iyer
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 5.6:
+        non_striker: SS Iyer
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 6.1:
+        non_striker: SS Iyer
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 6.2:
+        non_striker: JP Inglis
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 6.3:
+        non_striker: JP Inglis
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 6.4:
+        non_striker: SS Iyer
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 6.5:
+        non_striker: SS Iyer
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 6.6:
+        non_striker: JP Inglis
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 7.1:
+        non_striker: JP Inglis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 7.2:
+        non_striker: SS Iyer
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 7.3:
+        non_striker: JP Inglis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 7.4:
+        non_striker: JP Inglis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+        wicket:
+          player_out: SS Iyer
+          fielders:
+          - JM Sharma
+          kind: caught
+    - 7.5:
+        non_striker: JP Inglis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 7.6:
+        non_striker: N Wadhera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - Suyash Sharma
+          kind: caught
+    - 8.1:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 8.2:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 8.3:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 8.4:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 8.5:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Wadhera
+    - 8.6:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Wadhera
+    - 9.1:
+        non_striker: N Wadhera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+    - 9.2:
+        non_striker: N Wadhera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+    - 9.3:
+        non_striker: N Wadhera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 9.4:
+        non_striker: Shashank Singh
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 9.5:
+        non_striker: Shashank Singh
+        bowler: JR Hazlewood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Wadhera
+    - 9.6:
+        non_striker: N Wadhera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+    - 10.1:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Wadhera
+    - 10.2:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: N Wadhera
+    - 10.3:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Wadhera
+    - 10.4:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 10.5:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 10.6:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 11.1:
+        non_striker: Shashank Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 11.2:
+        non_striker: Shashank Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 11.3:
+        non_striker: N Wadhera
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+        wicket:
+          player_out: Shashank Singh
+          fielders:
+          - PD Salt
+          kind: caught
+    - 11.4:
+        non_striker: N Wadhera
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.5:
+        non_striker: MP Stoinis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Wadhera
+    - 11.6:
+        non_striker: MP Stoinis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Wadhera
+    - 12.1:
+        non_striker: N Wadhera
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis

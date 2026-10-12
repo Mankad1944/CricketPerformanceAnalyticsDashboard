@@ -1,0 +1,1343 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-06-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: New Chandigarh
+  competition: IPL
+  dates:
+  - '2025-05-29'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Royal Challengers Bengaluru
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Suyash Sharma
+  players:
+    Punjab Kings:
+    - Priyansh Arya
+    - P Simran Singh
+    - JP Inglis
+    - SS Iyer
+    - N Wadhera
+    - MP Stoinis
+    - Shashank Singh
+    - Musheer Khan
+    - Azmatullah Omarzai
+    - Harpreet Brar
+    - KA Jamieson
+    - Arshdeep Singh
+    Royal Challengers Bengaluru:
+    - Suyash Sharma
+    - PD Salt
+    - V Kohli
+    - MA Agarwal
+    - RM Patidar
+    - LS Livingstone
+    - JM Sharma
+    - R Shepherd
+    - KH Pandya
+    - B Kumar
+    - Yash Dayal
+    - JR Hazlewood
+  registry:
+    people:
+      Arshdeep Singh: 244048f6
+      Azmatullah Omarzai: 8f6dd463
+      B Kumar: 2e81a32d
+      Harpreet Brar: c05edf8e
+      JM Sharma: 800d2d97
+      JP Inglis: 989889ff
+      JR Hazlewood: '03806cf8'
+      KA Jamieson: 68c56d09
+      KH Pandya: 5b8c830e
+      LS Livingstone: 50c6bc2b
+      MA Agarwal: 00ea847a
+      MA Gough: 76752ac8
+      MP Stoinis: d9273ee7
+      Musheer Khan: d621b427
+      N Wadhera: d1a60072
+      P Simran Singh: 9418198b
+      PD Salt: 3d284ca3
+      Priyansh Arya: b5797845
+      R Pandit: 8a604384
+      R Shepherd: c5aef772
+      RM Patidar: c740ea83
+      SS Iyer: 85ec8e33
+      Shashank Singh: 26989d80
+      Suyash Sharma: 9440ef41
+      UV Gandhe: 43dd4011
+      V Kohli: ba607b88
+      V Narayan Kutty: 4bacee3d
+      VK Sharma: a7a49df4
+      Yash Dayal: 7210d461
+  teams:
+  - Punjab Kings
+  - Royal Challengers Bengaluru
+  toss:
+    winner: Royal Challengers Bengaluru
+    decision: field
+  umpires:
+  - MA Gough
+  - VK Sharma
+  venue: Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur
+innings:
+- 1st innings:
+    team: Punjab Kings
+    deliveries:
+    - 0.1:
+        non_striker: P Simran Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyansh Arya
+    - 0.2:
+        non_striker: P Simran Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 0.3:
+        non_striker: P Simran Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 0.4:
+        non_striker: P Simran Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 0.5:
+        non_striker: Priyansh Arya
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 0.6:
+        non_striker: Priyansh Arya
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 1.1:
+        non_striker: Priyansh Arya
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 1.2:
+        non_striker: P Simran Singh
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+        wicket:
+          player_out: Priyansh Arya
+          fielders:
+          - KH Pandya
+          kind: caught
+    - 1.3:
+        non_striker: P Simran Singh
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 1.4:
+        non_striker: JP Inglis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Simran Singh
+    - 1.5:
+        non_striker: JP Inglis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 1.6:
+        non_striker: JP Inglis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 2.1:
+        non_striker: P Simran Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 2.2:
+        non_striker: P Simran Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 2.3:
+        non_striker: JP Inglis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 2.4:
+        non_striker: JP Inglis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 2.5:
+        non_striker: JP Inglis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 2.6:
+        non_striker: JP Inglis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+        wicket:
+          player_out: P Simran Singh
+          fielders:
+          - JM Sharma
+          kind: caught
+    - 3.1:
+        non_striker: SS Iyer
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 3.2:
+        non_striker: JP Inglis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 3.3:
+        non_striker: JP Inglis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 3.4:
+        non_striker: JP Inglis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+        wicket:
+          player_out: SS Iyer
+          fielders:
+          - JM Sharma
+          kind: caught
+    - 3.5:
+        non_striker: JP Inglis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 3.6:
+        non_striker: JP Inglis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 4.1:
+        non_striker: JP Inglis
+        bowler: Yash Dayal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: N Wadhera
+    - 4.2:
+        non_striker: JP Inglis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Wadhera
+    - 4.3:
+        non_striker: JP Inglis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 4.4:
+        non_striker: JP Inglis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 4.5:
+        non_striker: JP Inglis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 4.6:
+        non_striker: N Wadhera
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 4.7:
+        non_striker: N Wadhera
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 5.1:
+        non_striker: N Wadhera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - B Kumar
+          kind: caught
+    - 5.2:
+        non_striker: N Wadhera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 5.3:
+        non_striker: N Wadhera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 5.4:
+        non_striker: N Wadhera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 5.5:
+        non_striker: N Wadhera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 5.6:
+        non_striker: N Wadhera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.1:
+        non_striker: MP Stoinis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 6.2:
+        non_striker: MP Stoinis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Wadhera
+    - 6.3:
+        non_striker: MP Stoinis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+        wicket:
+          player_out: N Wadhera
+          kind: bowled
+    - 6.4:
+        non_striker: MP Stoinis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shashank Singh
+    - 6.5:
+        non_striker: MP Stoinis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+    - 6.6:
+        non_striker: MP Stoinis
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+    - 7.1:
+        non_striker: Shashank Singh
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.2:
+        non_striker: Shashank Singh
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 7.3:
+        non_striker: Shashank Singh
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.4:
+        non_striker: MP Stoinis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 7.5:
+        non_striker: Shashank Singh
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.6:
+        non_striker: Shashank Singh
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.1:
+        non_striker: Shashank Singh
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.2:
+        non_striker: MP Stoinis
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+        wicket:
+          player_out: Shashank Singh
+          kind: bowled
+    - 8.3:
+        non_striker: MP Stoinis
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Musheer Khan
+            out: P Simran Singh
+            team: Punjab Kings
+            reason: impact_player
+        batsman: Musheer Khan
+    - 8.4:
+        non_striker: MP Stoinis
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musheer Khan
+    - 8.5:
+        non_striker: MP Stoinis
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musheer Khan
+        wicket:
+          player_out: Musheer Khan
+          kind: lbw
+    - 8.6:
+        non_striker: MP Stoinis
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 9.1:
+        non_striker: MP Stoinis
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 9.2:
+        non_striker: MP Stoinis
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 9.3:
+        non_striker: Azmatullah Omarzai
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 9.4:
+        non_striker: Azmatullah Omarzai
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.5:
+        non_striker: Azmatullah Omarzai
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 9.6:
+        non_striker: Azmatullah Omarzai
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.1:
+        non_striker: Azmatullah Omarzai
+        bowler: Suyash Sharma
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MP Stoinis
+    - 10.2:
+        non_striker: Azmatullah Omarzai
+        bowler: Suyash Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Stoinis
+    - 10.3:
+        non_striker: MP Stoinis
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 10.4:
+        non_striker: Azmatullah Omarzai
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          kind: bowled
+    - 10.5:
+        non_striker: Azmatullah Omarzai
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harpreet Brar
+    - 10.6:
+        non_striker: Azmatullah Omarzai
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harpreet Brar
+    - 10.7:
+        non_striker: Azmatullah Omarzai
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harpreet Brar
+    - 11.1:
+        non_striker: Harpreet Brar
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 11.2:
+        non_striker: Azmatullah Omarzai
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harpreet Brar
+    - 11.3:
+        non_striker: Azmatullah Omarzai
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Harpreet Brar
+    - 11.4:
+        non_striker: Azmatullah Omarzai
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harpreet Brar
+    - 11.5:
+        non_striker: Harpreet Brar
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 11.6:
+        non_striker: Azmatullah Omarzai
+        bowler: Yash Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harpreet Brar
+    - 12.1:
+        non_striker: Harpreet Brar
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 12.2:
+        non_striker: Azmatullah Omarzai
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harpreet Brar
+    - 12.3:
+        non_striker: Harpreet Brar
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 12.4:
+        non_striker: Harpreet Brar
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 12.5:
+        non_striker: Azmatullah Omarzai
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harpreet Brar
+    - 12.6:
+        non_striker: Azmatullah Omarzai
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harpreet Brar
+    - 13.1:
+        non_striker: Harpreet Brar
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 13.2:
+        non_striker: Harpreet Brar
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 13.3:
+        non_striker: Azmatullah Omarzai
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harpreet Brar
+        wicket:
+          player_out: Harpreet Brar
+          kind: bowled
+    - 13.4:
+        non_striker: Azmatullah Omarzai
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 13.5:
+        non_striker: Azmatullah Omarzai
+        bowler: R Shepherd
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: KA Jamieson
+    - 13.6:
+        non_striker: Azmatullah Omarzai
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 14.1:
+        non_striker: KA Jamieson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+        wicket:
+          player_out: Azmatullah Omarzai
+          fielders:
+          - JM Sharma
+          kind: caught
+- 2nd innings:
+    team: Royal Challengers Bengaluru
+    deliveries:
+    - 0.1:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.2:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 0.3:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: V Kohli
+    - 0.4:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 0.5:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 0.6:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 1.1:
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 1.2:
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 1.3:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 1.4:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 1.5:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 1.6:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.1:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.2:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 2.3:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.4:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 2.5:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 2.6:
+        non_striker: V Kohli
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 3.1:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 3.2:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 3.3:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: MA Agarwal
+            out: Suyash Sharma
+            team: Royal Challengers Bengaluru
+            reason: impact_player
+        batsman: MA Agarwal
+    - 3.4:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 3.5:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 3.6:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 4.1:
+        non_striker: MA Agarwal
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 4.2:
+        non_striker: MA Agarwal
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 4.3:
+        non_striker: MA Agarwal
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 4.4:
+        non_striker: MA Agarwal
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 4.5:
+        non_striker: MA Agarwal
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 4.6:
+        non_striker: MA Agarwal
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 5.1:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 5.2:
+        non_striker: PD Salt
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 5.3:
+        non_striker: MA Agarwal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 5.4:
+        non_striker: MA Agarwal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 5.5:
+        non_striker: MA Agarwal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 5.6:
+        non_striker: MA Agarwal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 6.1:
+        non_striker: PD Salt
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 6.2:
+        non_striker: MA Agarwal
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 6.3:
+        non_striker: MA Agarwal
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 6.4:
+        non_striker: PD Salt
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 6.5:
+        non_striker: MA Agarwal
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 6.6:
+        non_striker: PD Salt
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 7.1:
+        non_striker: PD Salt
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Agarwal
+    - 7.2:
+        non_striker: MA Agarwal
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 7.3:
+        non_striker: PD Salt
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Agarwal
+    - 7.4:
+        non_striker: PD Salt
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 7.5:
+        non_striker: PD Salt
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+        wicket:
+          player_out: MA Agarwal
+          fielders:
+          - SS Iyer
+          kind: caught
+    - 7.6:
+        non_striker: PD Salt
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 8.1:
+        non_striker: PD Salt
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 8.2:
+        non_striker: RM Patidar
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 8.3:
+        non_striker: PD Salt
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Patidar
+    - 8.4:
+        non_striker: PD Salt
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 8.5:
+        non_striker: RM Patidar
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 8.6:
+        non_striker: RM Patidar
+        bowler: Harpreet Brar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 9.1:
+        non_striker: PD Salt
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 9.2:
+        non_striker: RM Patidar
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 9.3:
+        non_striker: PD Salt
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Patidar
+    - 9.4:
+        non_striker: PD Salt
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 9.5:
+        non_striker: RM Patidar
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 9.6:
+        non_striker: PD Salt
+        bowler: Musheer Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Patidar

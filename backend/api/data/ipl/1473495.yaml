@@ -1,0 +1,597 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dharamsala
+  competition: IPL
+  dates:
+  - '2025-05-08'
+  gender: male
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Punjab Kings:
+    - Priyansh Arya
+    - P Simran Singh
+    - JP Inglis
+    - SS Iyer
+    - N Wadhera
+    - Shashank Singh
+    - MP Stoinis
+    - Azmatullah Omarzai
+    - M Jansen
+    - YS Chahal
+    - Arshdeep Singh
+    Delhi Capitals:
+    - F du Plessis
+    - Sameer Rizvi
+    - Abishek Porel
+    - KL Rahul
+    - AR Patel
+    - T Stubbs
+    - M Tiwari
+    - MA Starc
+    - PVD Chameera
+    - Kuldeep Yadav
+    - T Natarajan
+  registry:
+    people:
+      AR Patel: 2e171977
+      Abishek Porel: ad3b6e95
+      Arshdeep Singh: 244048f6
+      Azmatullah Omarzai: 8f6dd463
+      Bhavesh Patel: ee03dc30
+      CB Gaffaney: d5ac41d8
+      DS Manohar: b35f3ac8
+      F du Plessis: 3355b542
+      J Madanagopal: 8275b04a
+      JP Inglis: 989889ff
+      KL Rahul: b17e2f24
+      Kuldeep Yadav: 8d2c70ad
+      M Jansen: 81c36ee9
+      M Tiwari: fb5f69e4
+      MA Starc: 3fb19989
+      MP Stoinis: d9273ee7
+      N Wadhera: d1a60072
+      P Joshi: ffc0e370
+      P Simran Singh: 9418198b
+      PVD Chameera: 327b58d3
+      Priyansh Arya: b5797845
+      SS Iyer: 85ec8e33
+      Sameer Rizvi: f89d3b11
+      Shashank Singh: 26989d80
+      T Natarajan: ce794613
+      T Stubbs: 85b3fab2
+      YS Chahal: 57ee1fde
+  teams:
+  - Punjab Kings
+  - Delhi Capitals
+  toss:
+    winner: Punjab Kings
+    decision: bat
+  umpires:
+  - CB Gaffaney
+  - P Joshi
+  venue: Himachal Pradesh Cricket Association Stadium, Dharamsala
+innings:
+- 1st innings:
+    team: Punjab Kings
+    deliveries:
+    - 0.1:
+        non_striker: P Simran Singh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 0.2:
+        non_striker: P Simran Singh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 0.3:
+        non_striker: P Simran Singh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 0.4:
+        non_striker: P Simran Singh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 0.5:
+        non_striker: Priyansh Arya
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 0.6:
+        non_striker: P Simran Singh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 1.1:
+        non_striker: P Simran Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 1.2:
+        non_striker: P Simran Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 1.3:
+        non_striker: Priyansh Arya
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 1.4:
+        non_striker: P Simran Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 1.5:
+        non_striker: P Simran Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 1.6:
+        non_striker: Priyansh Arya
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: P Simran Singh
+    - 1.7:
+        non_striker: P Simran Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 2.1:
+        non_striker: Priyansh Arya
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 2.2:
+        non_striker: Priyansh Arya
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 2.3:
+        non_striker: Priyansh Arya
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 2.4:
+        non_striker: Priyansh Arya
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 2.5:
+        non_striker: Priyansh Arya
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 2.6:
+        non_striker: Priyansh Arya
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 3.1:
+        non_striker: P Simran Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 3.2:
+        non_striker: P Simran Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 3.3:
+        non_striker: P Simran Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyansh Arya
+    - 3.4:
+        non_striker: P Simran Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 3.5:
+        non_striker: P Simran Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 3.6:
+        non_striker: P Simran Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 4.1:
+        non_striker: Priyansh Arya
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 4.2:
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 4.3:
+        non_striker: Priyansh Arya
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 4.4:
+        non_striker: Priyansh Arya
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Simran Singh
+    - 4.5:
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 4.6:
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 5.1:
+        non_striker: Priyansh Arya
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 5.2:
+        non_striker: P Simran Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 5.3:
+        non_striker: P Simran Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 5.4:
+        non_striker: P Simran Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 5.5:
+        non_striker: Priyansh Arya
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 5.6:
+        non_striker: Priyansh Arya
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Simran Singh
+    - 6.1:
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 6.2:
+        non_striker: Priyansh Arya
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 6.3:
+        non_striker: Priyansh Arya
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 6.4:
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 6.5:
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 6.6:
+        non_striker: Priyansh Arya
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 7.1:
+        non_striker: Priyansh Arya
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Simran Singh
+    - 7.2:
+        non_striker: Priyansh Arya
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 7.3:
+        non_striker: P Simran Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Priyansh Arya
+    - 7.4:
+        non_striker: P Simran Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 7.5:
+        non_striker: Priyansh Arya
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 7.6:
+        non_striker: P Simran Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 7.7:
+        non_striker: P Simran Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 8.1:
+        non_striker: Priyansh Arya
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 8.2:
+        non_striker: P Simran Singh
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 8.3:
+        non_striker: Priyansh Arya
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 8.4:
+        non_striker: Priyansh Arya
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 8.5:
+        non_striker: Priyansh Arya
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Simran Singh
+    - 8.6:
+        non_striker: Priyansh Arya
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Simran Singh
+    - 9.1:
+        non_striker: P Simran Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 9.2:
+        non_striker: P Simran Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 9.3:
+        non_striker: P Simran Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 9.4:
+        non_striker: Priyansh Arya
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 9.5:
+        non_striker: Priyansh Arya
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 9.6:
+        non_striker: P Simran Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 10.1:
+        non_striker: P Simran Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+        wicket:
+          player_out: Priyansh Arya
+          fielders:
+          - M Tiwari
+          kind: caught

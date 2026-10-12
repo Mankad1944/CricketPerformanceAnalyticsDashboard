@@ -1,0 +1,1985 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Lucknow
+  competition: IPL
+  dates:
+  - '2025-04-22'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Delhi Capitals
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Mukesh Kumar
+  players:
+    Lucknow Super Giants:
+    - AK Markram
+    - MR Marsh
+    - N Pooran
+    - Abdul Samad
+    - DA Miller
+    - A Badoni
+    - RR Pant
+    - SN Thakur
+    - Ravi Bishnoi
+    - DS Rathi
+    - Avesh Khan
+    - Prince Yadav
+    Delhi Capitals:
+    - Abishek Porel
+    - KK Nair
+    - KL Rahul
+    - AR Patel
+    - T Stubbs
+    - Ashutosh Sharma
+    - V Nigam
+    - MA Starc
+    - PVD Chameera
+    - Kuldeep Yadav
+    - Mukesh Kumar
+  registry:
+    people:
+      A Badoni: 872b03f7
+      AK Markram: 6a26221c
+      AR Patel: 2e171977
+      Abdul Samad: 8e514b4c
+      Abishek Porel: ad3b6e95
+      Ashutosh Sharma: 84d9c311
+      Avesh Khan: eef2536f
+      DA Miller: d67d5f00
+      DS Rathi: 13fc5c6d
+      J Srinath: bad31fac
+      KK Nair: 944533a5
+      KL Rahul: b17e2f24
+      KM Gandhi: a9421c64
+      KN Ananthapadmanabhan: 3144063a
+      Kuldeep Yadav: 8d2c70ad
+      M Krishnadas: e298c588
+      MA Starc: 3fb19989
+      MR Marsh: 3d8feaf8
+      MV Saidharshan Kumar: 54b6007b
+      Mukesh Kumar: 2cffab74
+      N Pooran: 3241e3fd
+      PVD Chameera: 327b58d3
+      Prince Yadav: 80b2fb19
+      RR Pant: 919a3be2
+      Ravi Bishnoi: df064e1a
+      SN Thakur: 1abb78f8
+      T Stubbs: 85b3fab2
+      V Nigam: 5ffc0565
+  teams:
+  - Lucknow Super Giants
+  - Delhi Capitals
+  toss:
+    winner: Delhi Capitals
+    decision: field
+  umpires:
+  - KM Gandhi
+  - MV Saidharshan Kumar
+  venue: Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow
+innings:
+- 1st innings:
+    team: Lucknow Super Giants
+    deliveries:
+    - 0.1:
+        non_striker: MR Marsh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 0.2:
+        non_striker: MR Marsh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 0.3:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 0.4:
+        non_striker: MR Marsh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 0.5:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.6:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.1:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 1.2:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.3:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.4:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 1.5:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 1.6:
+        non_striker: AK Markram
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 2.1:
+        non_striker: MR Marsh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 2.2:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 2.3:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 2.4:
+        non_striker: MR Marsh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 2.5:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 2.6:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 3.1:
+        non_striker: MR Marsh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 3.2:
+        non_striker: MR Marsh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.3:
+        non_striker: MR Marsh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 3.4:
+        non_striker: MR Marsh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 3.5:
+        non_striker: AK Markram
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 3.6:
+        non_striker: MR Marsh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 4.1:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 4.2:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 4.3:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 4.4:
+        non_striker: MR Marsh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 4.5:
+        non_striker: MR Marsh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 4.6:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 5.1:
+        non_striker: AK Markram
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 5.2:
+        non_striker: AK Markram
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 5.3:
+        non_striker: MR Marsh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 5.4:
+        non_striker: MR Marsh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.5:
+        non_striker: MR Marsh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 5.6:
+        non_striker: AK Markram
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 6.1:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 6.2:
+        non_striker: MR Marsh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 6.3:
+        non_striker: MR Marsh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 6.4:
+        non_striker: MR Marsh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 6.5:
+        non_striker: AK Markram
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 6.6:
+        non_striker: MR Marsh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 7.1:
+        non_striker: MR Marsh
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 7.2:
+        non_striker: MR Marsh
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 7.3:
+        non_striker: AK Markram
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 7.4:
+        non_striker: AK Markram
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 7.5:
+        non_striker: MR Marsh
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 7.6:
+        non_striker: AK Markram
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 8.1:
+        non_striker: AK Markram
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 8.2:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.3:
+        non_striker: AK Markram
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 8.4:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.5:
+        non_striker: AK Markram
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 8.6:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 9.1:
+        non_striker: AK Markram
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 9.2:
+        non_striker: MR Marsh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.3:
+        non_striker: AK Markram
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 9.4:
+        non_striker: MR Marsh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.5:
+        non_striker: AK Markram
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 9.6:
+        non_striker: MR Marsh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 10.1:
+        non_striker: N Pooran
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 10.2:
+        non_striker: MR Marsh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 10.3:
+        non_striker: MR Marsh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 10.4:
+        non_striker: MR Marsh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.5:
+        non_striker: N Pooran
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 10.6:
+        non_striker: MR Marsh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.1:
+        non_striker: N Pooran
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 11.2:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          kind: bowled
+    - 11.3:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+    - 11.4:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+    - 11.5:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+    - 11.6:
+        non_striker: MR Marsh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+    - 12.1:
+        non_striker: Abdul Samad
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 12.2:
+        non_striker: MR Marsh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Samad
+    - 12.3:
+        non_striker: Abdul Samad
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Marsh
+    - 12.4:
+        non_striker: Abdul Samad
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 12.5:
+        non_striker: MR Marsh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Samad
+    - 12.6:
+        non_striker: Abdul Samad
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Marsh
+    - 13.1:
+        non_striker: MR Marsh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+    - 13.2:
+        non_striker: MR Marsh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+        wicket:
+          player_out: Abdul Samad
+          kind: caught and bowled
+    - 13.3:
+        non_striker: MR Marsh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.4:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 13.5:
+        non_striker: MR Marsh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.6:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          kind: bowled
+    - 14.1:
+        non_striker: A Badoni
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          match:
+          - in: A Badoni
+            out: MR Marsh
+            team: Lucknow Super Giants
+            reason: impact_player
+        batsman: DA Miller
+    - 14.2:
+        non_striker: A Badoni
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 14.3:
+        non_striker: A Badoni
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.4:
+        non_striker: DA Miller
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Badoni
+    - 14.5:
+        non_striker: DA Miller
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Badoni
+    - 14.6:
+        non_striker: DA Miller
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 15.1:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Badoni
+    - 15.2:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 15.3:
+        non_striker: A Badoni
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.4:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Badoni
+    - 15.5:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Badoni
+    - 15.6:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Badoni
+    - 16.1:
+        non_striker: A Badoni
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 16.2:
+        non_striker: A Badoni
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.3:
+        non_striker: DA Miller
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 16.4:
+        non_striker: A Badoni
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 16.5:
+        non_striker: A Badoni
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.6:
+        non_striker: DA Miller
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 16.7:
+        non_striker: A Badoni
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.1:
+        non_striker: A Badoni
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 17.2:
+        non_striker: A Badoni
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.3:
+        non_striker: DA Miller
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Badoni
+    - 17.4:
+        non_striker: DA Miller
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Badoni
+    - 17.5:
+        non_striker: DA Miller
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Badoni
+    - 17.6:
+        non_striker: DA Miller
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Badoni
+    - 18.1:
+        non_striker: A Badoni
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 18.2:
+        non_striker: DA Miller
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Badoni
+    - 18.3:
+        non_striker: DA Miller
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 18.4:
+        non_striker: A Badoni
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 18.5:
+        non_striker: A Badoni
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 18.6:
+        non_striker: DA Miller
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 19.1:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Badoni
+    - 19.2:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Badoni
+    - 19.3:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Badoni
+    - 19.4:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Badoni
+        wicket:
+          player_out: A Badoni
+          kind: bowled
+    - 19.5:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 19.6:
+        non_striker: DA Miller
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+        wicket:
+          player_out: RR Pant
+          kind: bowled
+- 2nd innings:
+    team: Delhi Capitals
+    deliveries:
+    - 0.1:
+        non_striker: KK Nair
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 0.2:
+        non_striker: Abishek Porel
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Nair
+    - 0.3:
+        non_striker: Abishek Porel
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Nair
+    - 0.4:
+        non_striker: Abishek Porel
+        bowler: SN Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Nair
+    - 0.5:
+        non_striker: Abishek Porel
+        bowler: SN Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KK Nair
+    - 0.6:
+        non_striker: KK Nair
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abishek Porel
+    - 0.7:
+        non_striker: KK Nair
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 1.1:
+        non_striker: Abishek Porel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Nair
+    - 1.2:
+        non_striker: KK Nair
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 1.3:
+        non_striker: KK Nair
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abishek Porel
+    - 1.4:
+        non_striker: KK Nair
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 1.5:
+        non_striker: Abishek Porel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 1.6:
+        non_striker: Abishek Porel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 2.1:
+        non_striker: KK Nair
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 2.2:
+        non_striker: KK Nair
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 2.3:
+        non_striker: KK Nair
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abishek Porel
+    - 2.4:
+        non_striker: KK Nair
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abishek Porel
+    - 2.5:
+        non_striker: KK Nair
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 2.6:
+        non_striker: KK Nair
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 3.1:
+        non_striker: KK Nair
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 3.2:
+        non_striker: Abishek Porel
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+    - 3.3:
+        non_striker: Abishek Porel
+        bowler: AK Markram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Nair
+    - 3.4:
+        non_striker: Abishek Porel
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KK Nair
+    - 3.5:
+        non_striker: Abishek Porel
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+        wicket:
+          player_out: KK Nair
+          kind: bowled
+    - 3.6:
+        non_striker: Abishek Porel
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 3.7:
+        non_striker: KL Rahul
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 4.1:
+        non_striker: KL Rahul
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 4.2:
+        non_striker: Abishek Porel
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.3:
+        non_striker: Abishek Porel
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.4:
+        non_striker: Abishek Porel
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 4.5:
+        non_striker: Abishek Porel
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.6:
+        non_striker: Abishek Porel
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.1:
+        non_striker: Abishek Porel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 5.2:
+        non_striker: Abishek Porel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.3:
+        non_striker: Abishek Porel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.4:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abishek Porel
+    - 5.5:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 5.6:
+        non_striker: Abishek Porel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 6.1:
+        non_striker: KL Rahul
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 6.2:
+        non_striker: Abishek Porel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.3:
+        non_striker: KL Rahul
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 6.4:
+        non_striker: Abishek Porel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.5:
+        non_striker: KL Rahul
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 6.6:
+        non_striker: Abishek Porel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 7.1:
+        non_striker: KL Rahul
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 7.2:
+        non_striker: Abishek Porel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.3:
+        non_striker: KL Rahul
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abishek Porel
+    - 7.4:
+        non_striker: KL Rahul
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 7.5:
+        non_striker: Abishek Porel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.6:
+        non_striker: KL Rahul
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 8.1:
+        non_striker: KL Rahul
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 8.2:
+        non_striker: KL Rahul
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 8.3:
+        non_striker: Abishek Porel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 8.4:
+        non_striker: KL Rahul
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 8.5:
+        non_striker: Abishek Porel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 8.6:
+        non_striker: Abishek Porel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 9.1:
+        non_striker: KL Rahul
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abishek Porel
+    - 9.2:
+        non_striker: KL Rahul
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abishek Porel
+    - 9.3:
+        non_striker: KL Rahul
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 9.4:
+        non_striker: Abishek Porel
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 9.5:
+        non_striker: Abishek Porel
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 9.6:
+        non_striker: KL Rahul
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 10.1:
+        non_striker: KL Rahul
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abishek Porel
+    - 10.2:
+        non_striker: KL Rahul
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 10.3:
+        non_striker: Abishek Porel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 10.4:
+        non_striker: Abishek Porel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 10.5:
+        non_striker: Abishek Porel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 10.6:
+        non_striker: KL Rahul
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 11.1:
+        non_striker: Abishek Porel
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 11.2:
+        non_striker: Abishek Porel
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 11.3:
+        non_striker: KL Rahul
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 11.4:
+        non_striker: Abishek Porel
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 11.5:
+        non_striker: KL Rahul
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+        wicket:
+          player_out: Abishek Porel
+          fielders:
+          - DA Miller
+          kind: caught
+    - 11.6:
+        non_striker: KL Rahul
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 12.1:
+        non_striker: AR Patel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 12.2:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 12.3:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 12.4:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 12.5:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 12.6:
+        non_striker: AR Patel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 13.1:
+        non_striker: AR Patel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 13.2:
+        non_striker: AR Patel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 13.3:
+        non_striker: AR Patel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 13.4:
+        non_striker: KL Rahul
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Patel
+    - 13.5:
+        non_striker: KL Rahul
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 13.6:
+        non_striker: KL Rahul
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Patel
+    - 14.1:
+        non_striker: AR Patel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 14.2:
+        non_striker: AR Patel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 14.3:
+        non_striker: AR Patel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 14.4:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 14.5:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 14.6:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Patel
+    - 14.7:
+        non_striker: KL Rahul
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 15.1:
+        non_striker: AR Patel
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 15.2:
+        non_striker: AR Patel
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 15.3:
+        non_striker: KL Rahul
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Patel
+    - 15.4:
+        non_striker: KL Rahul
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 15.5:
+        non_striker: KL Rahul
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 15.6:
+        non_striker: AR Patel
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 16.1:
+        non_striker: KL Rahul
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 16.2:
+        non_striker: AR Patel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 16.3:
+        non_striker: KL Rahul
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 16.4:
+        non_striker: AR Patel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 16.5:
+        non_striker: KL Rahul
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Patel
+    - 16.6:
+        non_striker: KL Rahul
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 17.1:
+        non_striker: AR Patel
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 17.2:
+        non_striker: KL Rahul
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 17.3:
+        non_striker: AR Patel
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 17.4:
+        non_striker: KL Rahul
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 17.5:
+        non_striker: AR Patel
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul

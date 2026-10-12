@@ -1,0 +1,1130 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-05-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hyderabad
+  competition: IPL
+  dates:
+  - '2025-05-05'
+  gender: male
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Delhi Capitals:
+    - KK Nair
+    - F du Plessis
+    - Abishek Porel
+    - KL Rahul
+    - AR Patel
+    - T Stubbs
+    - V Nigam
+    - Ashutosh Sharma
+    - MA Starc
+    - PVD Chameera
+    - Kuldeep Yadav
+    - T Natarajan
+    Sunrisers Hyderabad:
+    - JD Unadkat
+    - Abhishek Sharma
+    - Ishan Kishan
+    - Sachin Baby
+    - H Klaasen
+    - Aniket Verma
+    - A Manohar
+    - PJ Cummins
+    - HV Patel
+    - Zeeshan Ansari
+    - E Malinga
+    - TM Head
+  registry:
+    people:
+      A Manohar: '0890552f'
+      AR Patel: 2e171977
+      Abhijit Bhattacharya: 59ec9638
+      Abhishek Sharma: f29185a1
+      Abishek Porel: ad3b6e95
+      Aniket Verma: a3b0600d
+      Ashutosh Sharma: 84d9c311
+      E Malinga: 5750bcb4
+      F du Plessis: 3355b542
+      H Klaasen: 235c2bb6
+      HV Patel: f986ca1a
+      Ishan Kishan: 752f7486
+      JD Unadkat: 1e66c162
+      K Swaroopanand: aa2a4962
+      KK Nair: 944533a5
+      KL Rahul: b17e2f24
+      Kuldeep Yadav: 8d2c70ad
+      MA Gough: 76752ac8
+      MA Starc: 3fb19989
+      P Dharmani: eaa90ab4
+      PJ Cummins: ded9240e
+      PVD Chameera: 327b58d3
+      Sachin Baby: dc9dd038
+      T Natarajan: ce794613
+      T Stubbs: 85b3fab2
+      TM Head: 12b610c2
+      V Nigam: 5ffc0565
+      VK Sharma: a7a49df4
+      Zeeshan Ansari: '36619795'
+  teams:
+  - Delhi Capitals
+  - Sunrisers Hyderabad
+  toss:
+    winner: Sunrisers Hyderabad
+    decision: field
+  umpires:
+  - K Swaroopanand
+  - VK Sharma
+  venue: Rajiv Gandhi International Stadium, Uppal, Hyderabad
+innings:
+- 1st innings:
+    team: Delhi Capitals
+    deliveries:
+    - 0.1:
+        non_striker: F du Plessis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Nair
+        wicket:
+          player_out: KK Nair
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 0.2:
+        non_striker: F du Plessis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 0.3:
+        non_striker: F du Plessis
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 0.4:
+        non_striker: Abishek Porel
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F du Plessis
+    - 0.5:
+        non_striker: Abishek Porel
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.6:
+        non_striker: Abishek Porel
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.7:
+        non_striker: Abishek Porel
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.1:
+        non_striker: Abishek Porel
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: F du Plessis
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 1.3:
+        non_striker: Abishek Porel
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.4:
+        non_striker: Abishek Porel
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.5:
+        non_striker: Abishek Porel
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.6:
+        non_striker: F du Plessis
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 2.1:
+        non_striker: Abishek Porel
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 2.2:
+        non_striker: Abishek Porel
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.3:
+        non_striker: Abishek Porel
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 2.4:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 2.5:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abishek Porel
+    - 2.6:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 3.1:
+        non_striker: Abishek Porel
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 3.2:
+        non_striker: KL Rahul
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 3.3:
+        non_striker: Abishek Porel
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.4:
+        non_striker: Abishek Porel
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 3.5:
+        non_striker: KL Rahul
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 3.6:
+        non_striker: Abishek Porel
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.1:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+        wicket:
+          player_out: Abishek Porel
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 4.2:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 4.3:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 4.4:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 4.5:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 4.6:
+        non_striker: KL Rahul
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 5.1:
+        non_striker: AR Patel
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 5.2:
+        non_striker: AR Patel
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.3:
+        non_striker: AR Patel
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.4:
+        non_striker: KL Rahul
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Patel
+    - 5.5:
+        non_striker: KL Rahul
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+        wicket:
+          player_out: AR Patel
+          fielders:
+          - PJ Cummins
+          kind: caught
+    - 5.6:
+        non_striker: KL Rahul
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 6.1:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 6.2:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.3:
+        non_striker: KL Rahul
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 6.4:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 6.5:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.6:
+        non_striker: KL Rahul
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 7.1:
+        non_striker: T Stubbs
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 7.2:
+        non_striker: T Stubbs
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nigam
+    - 7.3:
+        non_striker: T Stubbs
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nigam
+    - 7.4:
+        non_striker: T Stubbs
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nigam
+    - 7.5:
+        non_striker: V Nigam
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 7.6:
+        non_striker: V Nigam
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 8.1:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nigam
+    - 8.2:
+        non_striker: V Nigam
+        bowler: E Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Stubbs
+    - 8.3:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nigam
+    - 8.4:
+        non_striker: V Nigam
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 8.5:
+        non_striker: V Nigam
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 8.6:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nigam
+    - 9.1:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Nigam
+    - 9.2:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nigam
+    - 9.3:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nigam
+    - 9.4:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nigam
+    - 9.5:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nigam
+    - 9.6:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Nigam
+    - 10.1:
+        non_striker: V Nigam
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 10.2:
+        non_striker: T Stubbs
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nigam
+    - 10.3:
+        non_striker: V Nigam
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 10.4:
+        non_striker: T Stubbs
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Nigam
+    - 10.5:
+        non_striker: T Stubbs
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nigam
+    - 10.6:
+        non_striker: T Stubbs
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nigam
+    - 11.1:
+        non_striker: V Nigam
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 11.2:
+        non_striker: V Nigam
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 11.3:
+        non_striker: V Nigam
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 11.4:
+        non_striker: V Nigam
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 11.5:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nigam
+    - 11.6:
+        non_striker: V Nigam
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 12.1:
+        non_striker: V Nigam
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+        wicket:
+          player_out: V Nigam
+          fielders:
+          - Aniket Verma
+          - Zeeshan Ansari
+          kind: run out
+    - 12.2:
+        non_striker: Ashutosh Sharma
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: Ashutosh Sharma
+            out: Abishek Porel
+            team: Delhi Capitals
+            reason: impact_player
+        batsman: T Stubbs
+    - 12.3:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 12.4:
+        non_striker: Ashutosh Sharma
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 12.5:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 12.6:
+        non_striker: Ashutosh Sharma
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.1:
+        non_striker: Ashutosh Sharma
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.2:
+        non_striker: T Stubbs
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 13.3:
+        non_striker: Ashutosh Sharma
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.4:
+        non_striker: T Stubbs
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 13.5:
+        non_striker: Ashutosh Sharma
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.6:
+        non_striker: T Stubbs
+        bowler: JD Unadkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashutosh Sharma
+    - 14.1:
+        non_striker: Ashutosh Sharma
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: TM Head
+            out: JD Unadkat
+            team: Sunrisers Hyderabad
+            reason: impact_player
+        batsman: T Stubbs
+    - 14.2:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ashutosh Sharma
+    - 14.3:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashutosh Sharma
+    - 14.4:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ashutosh Sharma
+    - 14.5:
+        non_striker: T Stubbs
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 14.6:
+        non_striker: Ashutosh Sharma
+        bowler: Zeeshan Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 15.1:
+        non_striker: T Stubbs
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 15.2:
+        non_striker: Ashutosh Sharma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 15.3:
+        non_striker: T Stubbs
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ashutosh Sharma
+    - 15.4:
+        non_striker: T Stubbs
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 15.5:
+        non_striker: Ashutosh Sharma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 15.6:
+        non_striker: Ashutosh Sharma
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 16.1:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ashutosh Sharma
+    - 16.2:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashutosh Sharma
+    - 16.3:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashutosh Sharma
+    - 16.4:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 16.5:
+        non_striker: Ashutosh Sharma
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 16.6:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ashutosh Sharma
+    - 16.7:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ashutosh Sharma
+    - 16.8:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ashutosh Sharma
+    - 17.1:
+        non_striker: Ashutosh Sharma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 17.2:
+        non_striker: Ashutosh Sharma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 17.3:
+        non_striker: Ashutosh Sharma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 17.4:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashutosh Sharma
+    - 17.5:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 17.6:
+        non_striker: Ashutosh Sharma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 18.1:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ashutosh Sharma
+    - 18.2:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashutosh Sharma
+    - 18.3:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 18.4:
+        non_striker: Ashutosh Sharma
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 18.5:
+        non_striker: T Stubbs
+        bowler: HV Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ashutosh Sharma
+    - 18.6:
+        non_striker: Ashutosh Sharma
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 19.1:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ashutosh Sharma
+    - 19.2:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 19.3:
+        non_striker: Ashutosh Sharma
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 19.4:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashutosh Sharma
+        wicket:
+          player_out: Ashutosh Sharma
+          fielders:
+          - A Manohar
+          kind: caught
+    - 19.5:
+        non_striker: T Stubbs
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Starc
+    - 19.6:
+        non_striker: MA Starc
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs

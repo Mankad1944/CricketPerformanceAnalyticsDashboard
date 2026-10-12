@@ -1,0 +1,2214 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: IPL
+  dates:
+  - '2025-04-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Mumbai Indians
+    by:
+      runs: 54
+  overs: 20
+  player_of_match:
+  - WG Jacks
+  players:
+    Mumbai Indians:
+    - JJ Bumrah
+    - RD Rickelton
+    - RG Sharma
+    - WG Jacks
+    - SA Yadav
+    - Tilak Varma
+    - HH Pandya
+    - Naman Dhir
+    - C Bosch
+    - DL Chahar
+    - TA Boult
+    - KV Sharma
+    Lucknow Super Giants:
+    - MR Marsh
+    - AK Markram
+    - N Pooran
+    - RR Pant
+    - A Badoni
+    - DA Miller
+    - Abdul Samad
+    - Ravi Bishnoi
+    - Avesh Khan
+    - Prince Yadav
+    - DS Rathi
+    - MP Yadav
+  registry:
+    people:
+      A Badoni: 872b03f7
+      A Bengeri: c109497d
+      AK Markram: 6a26221c
+      Abdul Samad: 8e514b4c
+      Avesh Khan: eef2536f
+      C Bosch: 172dff15
+      CB Gaffaney: d5ac41d8
+      DA Miller: d67d5f00
+      DL Chahar: 23eeb873
+      DS Manohar: b35f3ac8
+      DS Rathi: 13fc5c6d
+      HH Pandya: dbe50b21
+      J Madanagopal: 8275b04a
+      JJ Bumrah: 462411b3
+      KV Sharma: 119678fd
+      MP Yadav: b1ad996b
+      MR Marsh: 3d8feaf8
+      N Pooran: 3241e3fd
+      Naman Dhir: fffa744b
+      Prince Yadav: 80b2fb19
+      RD Rickelton: e66732f8
+      RG Sharma: 740742ef
+      RR Pant: 919a3be2
+      Ravi Bishnoi: df064e1a
+      SA Yadav: 271f83cd
+      TA Boult: a818c1be
+      Tilak Varma: b0482a1d
+      Vinod Seshan: a3357a27
+      WG Jacks: 9caf69a1
+  teams:
+  - Mumbai Indians
+  - Lucknow Super Giants
+  toss:
+    winner: Lucknow Super Giants
+    decision: field
+  umpires:
+  - CB Gaffaney
+  - J Madanagopal
+  venue: Wankhede Stadium, Mumbai
+innings:
+- 1st innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: RG Sharma
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.2:
+        non_striker: RG Sharma
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.3:
+        non_striker: RG Sharma
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.4:
+        non_striker: RG Sharma
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.5:
+        non_striker: RG Sharma
+        bowler: MP Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Rickelton
+    - 0.6:
+        non_striker: RG Sharma
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 0.7:
+        non_striker: RG Sharma
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 1.1:
+        non_striker: RG Sharma
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.2:
+        non_striker: RG Sharma
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 1.3:
+        non_striker: RG Sharma
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.4:
+        non_striker: RG Sharma
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 1.5:
+        non_striker: RG Sharma
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 1.6:
+        non_striker: RG Sharma
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.1:
+        non_striker: RD Rickelton
+        bowler: MP Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Sharma
+    - 2.2:
+        non_striker: RD Rickelton
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 2.3:
+        non_striker: RD Rickelton
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 2.4:
+        non_striker: RD Rickelton
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.5:
+        non_striker: RD Rickelton
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.6:
+        non_striker: RD Rickelton
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          fielders:
+          - Prince Yadav
+          kind: caught
+    - 2.7:
+        non_striker: RD Rickelton
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 3.1:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 3.2:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 3.3:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 3.4:
+        non_striker: RD Rickelton
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 3.5:
+        non_striker: RD Rickelton
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 3.6:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 4.1:
+        non_striker: RD Rickelton
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 4.2:
+        non_striker: RD Rickelton
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 4.3:
+        non_striker: RD Rickelton
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 4.4:
+        non_striker: WG Jacks
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 4.5:
+        non_striker: WG Jacks
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 4.6:
+        non_striker: WG Jacks
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 5.1:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 5.2:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 5.3:
+        non_striker: RD Rickelton
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 5.4:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 5.5:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 5.6:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.1:
+        non_striker: WG Jacks
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.2:
+        non_striker: RD Rickelton
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 6.3:
+        non_striker: RD Rickelton
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 6.4:
+        non_striker: WG Jacks
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 6.5:
+        non_striker: WG Jacks
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 6.6:
+        non_striker: WG Jacks
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.1:
+        non_striker: WG Jacks
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.2:
+        non_striker: RD Rickelton
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 7.3:
+        non_striker: RD Rickelton
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 7.4:
+        non_striker: WG Jacks
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.5:
+        non_striker: RD Rickelton
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 7.6:
+        non_striker: RD Rickelton
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 8.1:
+        non_striker: RD Rickelton
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 8.2:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 8.3:
+        non_striker: RD Rickelton
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 8.4:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - A Badoni
+          kind: caught
+    - 8.5:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.6:
+        non_striker: WG Jacks
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.1:
+        non_striker: WG Jacks
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 9.2:
+        non_striker: WG Jacks
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.3:
+        non_striker: SA Yadav
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 9.4:
+        non_striker: SA Yadav
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 9.5:
+        non_striker: SA Yadav
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 9.6:
+        non_striker: WG Jacks
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.1:
+        non_striker: SA Yadav
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 10.2:
+        non_striker: WG Jacks
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 10.3:
+        non_striker: WG Jacks
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.4:
+        non_striker: WG Jacks
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.5:
+        non_striker: SA Yadav
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 10.6:
+        non_striker: WG Jacks
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.1:
+        non_striker: WG Jacks
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 11.2:
+        non_striker: WG Jacks
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.3:
+        non_striker: SA Yadav
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          kind: bowled
+    - 11.4:
+        non_striker: SA Yadav
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 11.5:
+        non_striker: SA Yadav
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.6:
+        non_striker: SA Yadav
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 12.1:
+        non_striker: SA Yadav
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 12.2:
+        non_striker: Tilak Varma
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 12.3:
+        non_striker: Tilak Varma
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 12.4:
+        non_striker: Tilak Varma
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 12.5:
+        non_striker: Tilak Varma
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.6:
+        non_striker: SA Yadav
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          fielders:
+          - Prince Yadav
+          kind: caught
+    - 13.1:
+        non_striker: HH Pandya
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 13.2:
+        non_striker: HH Pandya
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 13.3:
+        non_striker: HH Pandya
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 13.4:
+        non_striker: SA Yadav
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 13.5:
+        non_striker: SA Yadav
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 13.6:
+        non_striker: SA Yadav
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.1:
+        non_striker: SA Yadav
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.2:
+        non_striker: SA Yadav
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.3:
+        non_striker: HH Pandya
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 14.4:
+        non_striker: HH Pandya
+        bowler: Prince Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Yadav
+    - 14.5:
+        non_striker: HH Pandya
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.6:
+        non_striker: SA Yadav
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.7:
+        non_striker: HH Pandya
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 15.1:
+        non_striker: SA Yadav
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          kind: bowled
+    - 15.2:
+        non_striker: SA Yadav
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 15.3:
+        non_striker: SA Yadav
+        bowler: MP Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Naman Dhir
+    - 15.4:
+        non_striker: SA Yadav
+        bowler: MP Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Naman Dhir
+    - 15.5:
+        non_striker: SA Yadav
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 15.6:
+        non_striker: Naman Dhir
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 15.7:
+        non_striker: SA Yadav
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 15.8:
+        non_striker: SA Yadav
+        bowler: MP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 16.1:
+        non_striker: SA Yadav
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 16.2:
+        non_striker: SA Yadav
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 16.3:
+        non_striker: SA Yadav
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 16.4:
+        non_striker: Naman Dhir
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 16.5:
+        non_striker: Naman Dhir
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 16.6:
+        non_striker: Naman Dhir
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 17.1:
+        non_striker: Naman Dhir
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 17.2:
+        non_striker: Naman Dhir
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 17.3:
+        non_striker: Naman Dhir
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - MR Marsh
+          kind: caught
+    - 17.4:
+        non_striker: Naman Dhir
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bosch
+    - 17.5:
+        non_striker: Naman Dhir
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 17.6:
+        non_striker: Naman Dhir
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 18.1:
+        non_striker: Naman Dhir
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bosch
+    - 18.2:
+        non_striker: Naman Dhir
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 18.3:
+        non_striker: C Bosch
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Naman Dhir
+    - 18.4:
+        non_striker: C Bosch
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 18.5:
+        non_striker: Naman Dhir
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Bosch
+    - 18.6:
+        non_striker: Naman Dhir
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 19.1:
+        non_striker: Naman Dhir
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 19.2:
+        non_striker: C Bosch
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 19.3:
+        non_striker: Naman Dhir
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bosch
+    - 19.4:
+        non_striker: Naman Dhir
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+        wicket:
+          player_out: C Bosch
+          fielders:
+          - N Pooran
+          kind: caught
+    - 19.5:
+        non_striker: Naman Dhir
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Chahar
+    - 19.6:
+        non_striker: DL Chahar
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Naman Dhir
+- 2nd innings:
+    team: Lucknow Super Giants
+    deliveries:
+    - 0.1:
+        non_striker: AK Markram
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: JJ Bumrah
+            out: RG Sharma
+            team: Mumbai Indians
+            reason: impact_player
+        batsman: MR Marsh
+    - 0.2:
+        non_striker: AK Markram
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 0.3:
+        non_striker: MR Marsh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 0.4:
+        non_striker: MR Marsh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 0.5:
+        non_striker: MR Marsh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 0.6:
+        non_striker: MR Marsh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.1:
+        non_striker: AK Markram
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 1.2:
+        non_striker: AK Markram
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MR Marsh
+    - 1.3:
+        non_striker: AK Markram
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.4:
+        non_striker: AK Markram
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 1.5:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.6:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.7:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 2.1:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 2.2:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 2.3:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 2.4:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - Naman Dhir
+          kind: caught
+    - 2.5:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 2.6:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 3.1:
+        non_striker: N Pooran
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 3.2:
+        non_striker: N Pooran
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 3.3:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.4:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.5:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.6:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 4.1:
+        non_striker: N Pooran
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 4.2:
+        non_striker: N Pooran
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 4.3:
+        non_striker: N Pooran
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 4.4:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 4.5:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 4.6:
+        non_striker: N Pooran
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 4.7:
+        non_striker: MR Marsh
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 5.1:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.2:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.3:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 5.4:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 5.5:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 5.6:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 5.7:
+        non_striker: MR Marsh
+        bowler: DL Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.1:
+        non_striker: MR Marsh
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - SA Yadav
+          kind: caught
+    - 6.2:
+        non_striker: MR Marsh
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 6.3:
+        non_striker: MR Marsh
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+        wicket:
+          player_out: RR Pant
+          fielders:
+          - KV Sharma
+          kind: caught
+    - 6.4:
+        non_striker: MR Marsh
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 6.5:
+        non_striker: A Badoni
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 6.6:
+        non_striker: MR Marsh
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 7.1:
+        non_striker: MR Marsh
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 7.2:
+        non_striker: A Badoni
+        bowler: KV Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MR Marsh
+    - 7.3:
+        non_striker: MR Marsh
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Badoni
+    - 7.4:
+        non_striker: MR Marsh
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 7.5:
+        non_striker: A Badoni
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 7.6:
+        non_striker: MR Marsh
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Badoni
+    - 8.1:
+        non_striker: A Badoni
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 8.2:
+        non_striker: A Badoni
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 8.3:
+        non_striker: A Badoni
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 8.4:
+        non_striker: A Badoni
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 8.5:
+        non_striker: MR Marsh
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 8.6:
+        non_striker: A Badoni
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 9.1:
+        non_striker: MR Marsh
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Badoni
+    - 9.2:
+        non_striker: MR Marsh
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Badoni
+    - 9.3:
+        non_striker: MR Marsh
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 9.4:
+        non_striker: A Badoni
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 9.5:
+        non_striker: MR Marsh
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Badoni
+    - 9.6:
+        non_striker: MR Marsh
+        bowler: KV Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Badoni
+    - 10.1:
+        non_striker: A Badoni
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 10.2:
+        non_striker: A Badoni
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 10.3:
+        non_striker: MR Marsh
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Badoni
+    - 10.4:
+        non_striker: MR Marsh
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Badoni
+    - 10.5:
+        non_striker: MR Marsh
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Badoni
+    - 10.6:
+        non_striker: MR Marsh
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 11.1:
+        non_striker: MR Marsh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 11.2:
+        non_striker: A Badoni
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 11.3:
+        non_striker: A Badoni
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: DA Miller
+            out: N Pooran
+            team: Lucknow Super Giants
+            reason: impact_player
+        batsman: DA Miller
+    - 11.4:
+        non_striker: A Badoni
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 11.5:
+        non_striker: A Badoni
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.6:
+        non_striker: DA Miller
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 12.1:
+        non_striker: DA Miller
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 12.2:
+        non_striker: A Badoni
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 12.3:
+        non_striker: A Badoni
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.4:
+        non_striker: A Badoni
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 12.5:
+        non_striker: A Badoni
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.6:
+        non_striker: A Badoni
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 13.1:
+        non_striker: DA Miller
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Badoni
+    - 13.2:
+        non_striker: A Badoni
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 13.3:
+        non_striker: A Badoni
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 13.4:
+        non_striker: A Badoni
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 13.5:
+        non_striker: A Badoni
+        bowler: C Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 13.6:
+        non_striker: A Badoni
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.7:
+        non_striker: DA Miller
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Badoni
+    - 14.1:
+        non_striker: A Badoni
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.2:
+        non_striker: DA Miller
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Badoni
+        wicket:
+          player_out: A Badoni
+          fielders:
+          - WG Jacks
+          kind: caught
+    - 14.3:
+        non_striker: DA Miller
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Samad
+    - 14.4:
+        non_striker: Abdul Samad
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.5:
+        non_striker: DA Miller
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Abdul Samad
+    - 14.6:
+        non_striker: Abdul Samad
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 15.1:
+        non_striker: DA Miller
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Samad
+    - 15.2:
+        non_striker: Abdul Samad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - C Bosch
+          kind: caught
+    - 15.3:
+        non_striker: Abdul Samad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 15.4:
+        non_striker: Abdul Samad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravi Bishnoi
+    - 15.5:
+        non_striker: Ravi Bishnoi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Samad
+        wicket:
+          player_out: Abdul Samad
+          kind: bowled
+    - 15.6:
+        non_striker: Ravi Bishnoi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avesh Khan
+        wicket:
+          player_out: Avesh Khan
+          kind: bowled
+    - 16.1:
+        non_striker: Prince Yadav
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 16.2:
+        non_striker: Prince Yadav
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ravi Bishnoi
+    - 16.3:
+        non_striker: Prince Yadav
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 16.4:
+        non_striker: Prince Yadav
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 16.5:
+        non_striker: Prince Yadav
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 16.6:
+        non_striker: Prince Yadav
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 17.1:
+        non_striker: Ravi Bishnoi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prince Yadav
+    - 17.2:
+        non_striker: Ravi Bishnoi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prince Yadav
+    - 17.3:
+        non_striker: Ravi Bishnoi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Prince Yadav
+    - 17.4:
+        non_striker: Prince Yadav
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 17.5:
+        non_striker: Prince Yadav
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 17.6:
+        non_striker: Prince Yadav
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ravi Bishnoi
+    - 18.1:
+        non_striker: Ravi Bishnoi
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prince Yadav
+    - 18.2:
+        non_striker: Ravi Bishnoi
+        bowler: C Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Prince Yadav
+    - 18.3:
+        non_striker: Ravi Bishnoi
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Prince Yadav
+    - 18.4:
+        non_striker: Prince Yadav
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 18.5:
+        non_striker: Prince Yadav
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 18.6:
+        non_striker: Prince Yadav
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+        wicket:
+          player_out: Ravi Bishnoi
+          kind: bowled
+    - 18.7:
+        non_striker: Prince Yadav
+        bowler: C Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DS Rathi
+    - 18.8:
+        non_striker: Prince Yadav
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Rathi
+    - 19.1:
+        non_striker: DS Rathi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prince Yadav
+    - 19.2:
+        non_striker: DS Rathi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Prince Yadav
+    - 19.3:
+        non_striker: Prince Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rathi
+    - 19.4:
+        non_striker: DS Rathi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prince Yadav
+    - 19.5:
+        non_striker: DS Rathi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Prince Yadav
+    - 19.6:
+        non_striker: Prince Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Rathi
+        wicket:
+          player_out: DS Rathi
+          kind: bowled
